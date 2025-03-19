@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Ansible (software) - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b56ceb02-f286-47bb-bea5-8ffee9ace42d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ansible_(software)","wgTitle":"Ansible (software)","wgCurRevisionId":1269983907,"wgRevisionId":1269983907,"wgArticleId":36219037,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Articles with short description","Short description matches Wikidata","Wikipedia articles that are too technical from April 2022","All articles that are too technical","All articles with unsourced statements","Articles with unsourced statements from January 2023","Articles with unsourced statements from September 2023","All pages needing factual verification","Wikipedia articles needing factual verification from November 2021","Free software programmed in Python","Configuration management","Orchestration software","Remote administration software","Software distribution","Software using the GNU General Public License"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Ansible_(software)","wgRelevantArticleId":36219037,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2852503","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.pygments":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.pygments.view","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.pygments%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Ansible (software) - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//en.m.wikipedia.org/wiki/Ansible_(software)">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ansible_(software)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ansible_(software)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ansible_software rootpage-Ansible_software skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ansible+%28software%29" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansible+%28software%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en"><span>Donate</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ansible+%28software%29" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansible+%28software%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-History"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#History">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>History</span>
+			</div>
+		</a>
+		
+		<ul id="toc-History-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Architecture"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Architecture">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Architecture</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Architecture-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Architecture subsection</span>
+			</button>
+		
+		<ul id="toc-Architecture-sublist" class="vector-toc-list">
+			<li id="toc-Overview"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Overview">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Overview</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Overview-sublist" class="vector-toc-list">
+				<li id="toc-Dependencies"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Dependencies">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1.1</span>
+					<span>Dependencies</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dependencies-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Control_node"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Control_node">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Control node</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Control_node-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Design_goals"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Design_goals">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.3</span>
+					<span>Design goals</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Design_goals-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Modules"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Modules">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.4</span>
+					<span>Modules</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Modules-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Inventory_configuration"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Inventory_configuration">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.5</span>
+					<span>Inventory configuration</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Inventory_configuration-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Playbooks"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Playbooks">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.6</span>
+					<span>Playbooks</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Playbooks-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ansible_Automation_Platform"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Ansible_Automation_Platform">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.7</span>
+					<span>Ansible Automation Platform</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Ansible_Automation_Platform-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Platform_support"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Platform_support">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Platform support</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Platform_support-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-AnsibleFest"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#AnsibleFest">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>AnsibleFest</span>
+			</div>
+		</a>
+		
+		<ul id="toc-AnsibleFest-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Ansible (software)</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 21 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-21" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">21 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%B3%D9%8A%D8%A8%D9%84_(%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A7%D8%AA)" title="أنسيبل (برمجيات) – Arabic" lang="ar" hreflang="ar" data-title="أنسيبل (برمجيات)" data-language-autonym="العربية" data-language-local-name="Arabic" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/Ansible" title="Ansible – Bulgarian" lang="bg" hreflang="bg" data-title="Ansible" data-language-autonym="Български" data-language-local-name="Bulgarian" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Ansible_(softver)" title="Ansible (softver) – Bosnian" lang="bs" hreflang="bs" data-title="Ansible (softver)" data-language-autonym="Bosanski" data-language-local-name="Bosnian" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Ansible" title="Ansible – Catalan" lang="ca" hreflang="ca" data-title="Ansible" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ansible_(software)" title="Ansible (software) – Czech" lang="cs" hreflang="cs" data-title="Ansible (software)" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ansible" title="Ansible – German" lang="de" hreflang="de" data-title="Ansible" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ansible_(software)" title="Ansible (software) – Spanish" lang="es" hreflang="es" data-title="Ansible (software)" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B3%DB%8C%D8%A8%D9%84" title="انسیبل – Persian" lang="fa" hreflang="fa" data-title="انسیبل" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Ansible_(logiciel)" title="Ansible (logiciel) – French" lang="fr" hreflang="fr" data-title="Ansible (logiciel)" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/Ansible" title="Ansible – Korean" lang="ko" hreflang="ko" data-title="Ansible" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ansible_(software)" title="Ansible (software) – Italian" lang="it" hreflang="it" data-title="Ansible (software)" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Ansible_(szoftver)" title="Ansible (szoftver) – Hungarian" lang="hu" hreflang="hu" data-title="Ansible (szoftver)" data-language-autonym="Magyar" data-language-local-name="Hungarian" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/Ansible_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)" title="Ansible (ソフトウェア) – Japanese" lang="ja" hreflang="ja" data-title="Ansible (ソフトウェア)" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Ansible" title="Ansible – Norwegian Bokmål" lang="nb" hreflang="nb" data-title="Ansible" data-language-autonym="Norsk bokmål" data-language-local-name="Norwegian Bokmål" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ansible" title="Ansible – Polish" lang="pl" hreflang="pl" data-title="Ansible" data-language-autonym="Polski" data-language-local-name="Polish" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ansible_(software)" title="Ansible (software) – Portuguese" lang="pt" hreflang="pt" data-title="Ansible (software)" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/Ansible" title="Ansible – Russian" lang="ru" hreflang="ru" data-title="Ansible" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Ansible" title="Ansible – Finnish" lang="fi" hreflang="fi" data-title="Ansible" data-language-autonym="Suomi" data-language-local-name="Finnish" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Ansible" title="Ansible – Turkish" lang="tr" hreflang="tr" data-title="Ansible" data-language-autonym="Türkçe" data-language-local-name="Turkish" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Ansible" title="Ansible – Ukrainian" lang="uk" hreflang="uk" data-title="Ansible" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/Ansible_(%E8%BB%9F%E9%AB%94)" title="Ansible (軟體) – Chinese" lang="zh" hreflang="zh" data-title="Ansible (軟體)" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2852503#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Ansible_(software)" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Ansible_(software)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Ansible_(software)"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Ansible_(software)"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Ansible_(software)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Ansible_(software)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;oldid=1269983907" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ansible_%28software%29&amp;id=1269983907&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnsible_%28software%29"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnsible_%28software%29"><span>Download QR code</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Ansible_%28software%29&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Ansible_(software)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2852503" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Open-source software platform for remote configuring and managing computers</div>
+<style data-mw-deduplicate="TemplateStyles:r1236090951">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">This article is about the software named Ansible. For other uses, see <a href="/wiki/Ansible_(disambiguation)" class="mw-disambig" title="Ansible (disambiguation)">Ansible (disambiguation)</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1251242444">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style><table class="box-Technical plainlinks metadata ambox ambox-style ambox-technical" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may be too technical for most readers to understand</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ansible_(software)&amp;action=edit">help improve it</a> to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details.</span>  <span class="date-container"><i>(<span class="date">April 2022</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1257001546">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</style><table class="infobox vevent"><caption class="infobox-title summary">Ansible</caption><tbody><tr><td colspan="2" class="infobox-image logo"><span typeof="mw:File"><a href="/wiki/File:Ansible_logo.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/100px-Ansible_logo.svg.png" decoding="async" width="100" height="123" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/150px-Ansible_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/200px-Ansible_logo.svg.png 2x" data-file-width="256" data-file-height="315" /></a></span></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Programmer" title="Programmer">Original author(s)</a></th><td class="infobox-data">Michael DeHaan</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Programmer" title="Programmer">Developer(s)</a></th><td class="infobox-data"><a rel="nofollow" class="external text" href="https://github.com/orgs/ansible/people">Ansible Community</a> / Ansible Inc. / <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a> Inc.</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">Initial release</th><td class="infobox-data">February&#160;20, 2012<span class="noprint">&#59;&#32;13 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2012-02-20</span>)</span> <sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2023)">citation needed</span></a></i>&#93;</sup></td></tr><tr style="display: none;"><td colspan="2" class="infobox-full-data"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1257001546" /></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th><td class="infobox-data"><div style="margin:0px;">2.18.2<sup id="cite_ref-wikidata-4c5b92789e8190b21245479e61b45bf1be01853f-v18_1-0" class="reference"><a href="#cite_note-wikidata-4c5b92789e8190b21245479e61b45bf1be01853f-v18-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>&#160;<span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2852503?uselang=en#P348" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span>
+   / 27 January 2025</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Repository_(version_control)" title="Repository (version control)">Repository</a></th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="plainlist"><ul><li><span class="url"><a rel="nofollow" class="external text" href="https://github.com/ansible/ansible">github<wbr />.com<wbr />/ansible<wbr />/ansible</a></span> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2852503#P1324" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">Written in</th><td class="infobox-data"><a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="/wiki/PowerShell" title="PowerShell">PowerShell</a>, <a href="/wiki/Shell_(computing)" title="Shell (computing)">Shell</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th><td class="infobox-data"><a href="/wiki/Linux" title="Linux">Linux</a>, <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a>, <a href="/wiki/MacOS" title="MacOS">MacOS</a>, <a href="/wiki/Windows" class="mw-redirect" title="Windows">Windows</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">Available in</th><td class="infobox-data">English</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Software_categories#Categorization_approaches" title="Software categories">Type</a></th><td class="infobox-data"><a href="/wiki/Configuration_management" title="Configuration management">Configuration management</a>, <a href="/wiki/Infrastructure_as_code" title="Infrastructure as code">infrastructure as code</a> (IaC), Orchestration engine</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th><td class="infobox-data"><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a> version 3</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">Website</th><td class="infobox-data"><span class="url"><a rel="nofollow" class="external text" href="https://www.ansible.com/">www<wbr />.ansible<wbr />.com</a></span>&#160;<span class="penicon autoconfirmed-show"><span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2852503?uselang=en#P856" title="Edit this on Wikidata"><img alt="Edit this on Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></span></td></tr></tbody></table>
+<p><b>Ansible</b> is a suite of software tools that enables <a href="/wiki/Infrastructure_as_code" title="Infrastructure as code">infrastructure as code</a>. It is <a href="/wiki/Open-source_software" title="Open-source software">open-source</a> and the suite includes software <a href="/wiki/Provisioning_(technology)" title="Provisioning (technology)">provisioning</a>, <a href="/wiki/Software_configuration_management" title="Software configuration management">configuration management</a>, and <a href="/wiki/Application_deployment" class="mw-redirect" title="Application deployment">application deployment</a> functionality.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Originally written by Michael DeHaan in 2012, and acquired by <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a> in 2015, Ansible is designed to configure both <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> systems and <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>. Ansible is <a href="/wiki/Agentless" class="mw-redirect" title="Agentless">agentless</a>, relying on temporary remote connections via <a href="/wiki/SSH" class="mw-redirect" title="SSH">SSH</a> or <a href="/wiki/Windows_Remote_Management" title="Windows Remote Management">Windows Remote Management</a> which allows <a href="/wiki/PowerShell" title="PowerShell">PowerShell</a> execution. The Ansible control node runs on most Unix-like systems that are able to run <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, including Windows with <a href="/wiki/Windows_Subsystem_for_Linux" title="Windows Subsystem for Linux">Windows Subsystem for Linux</a> installed.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/System_configuration" title="System configuration">System configuration</a> is defined in part by using its own <a href="/wiki/Declarative_language" class="mw-redirect" title="Declarative language">declarative language</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="History">History</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=1" title="Edit section: History"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The term "<a href="/wiki/Ansible" title="Ansible">ansible</a>" was coined by <a href="/wiki/Ursula_K._Le_Guin" title="Ursula K. Le Guin">Ursula K. Le Guin</a> in her 1966 novel <i><a href="/wiki/Rocannon%27s_World" title="Rocannon&#39;s World">Rocannon's World</a></i>,<sup id="cite_ref-Bernardo_2006_p._18_4-0" class="reference"><a href="#cite_note-Bernardo_2006_p._18-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> and refers to fictional instantaneous communication systems.<sup id="cite_ref-FAQ_5-0" class="reference"><a href="#cite_note-FAQ-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>The Ansible tool was developed by Michael DeHaan, the author of the provisioning server application <a href="/wiki/Cobbler_(software)" title="Cobbler (software)">Cobbler</a> and co-author of the <a href="/w/index.php?title=Fedora_Unified_Network_Controller&amp;action=edit&amp;redlink=1" class="new" title="Fedora Unified Network Controller (page does not exist)">Fedora Unified Network Controller</a> (Func) framework for remote administration.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Ansible, Inc. (originally AnsibleWorks, Inc.) was the company founded in 2013 by DeHaan, Timothy Gerla, and Saïd Ziouani to commercially support and sponsor Ansible.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup> <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a> acquired Ansible in October 2015.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Ansible is included as part of the <a href="/wiki/Fedora_(operating_system)" class="mw-redirect" title="Fedora (operating system)">Fedora</a> distribution of Linux, owned by <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, and is also available for <a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat Enterprise Linux</a>, <a href="/wiki/CentOS" title="CentOS">CentOS</a>, <a href="/wiki/OpenSUSE" title="OpenSUSE">openSUSE</a>, <a href="/wiki/SUSE_Linux_Enterprise" title="SUSE Linux Enterprise">SUSE Linux Enterprise</a>, <a href="/wiki/Debian" title="Debian">Debian</a>, <a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a>, <a href="/wiki/Scientific_Linux" title="Scientific Linux">Scientific Linux</a>, and <a href="/wiki/Oracle_Linux" title="Oracle Linux">Oracle Linux</a> via Extra Packages for Enterprise Linux,  as well as for other operating systems.<sup id="cite_ref-Ansible_Linux_packages_13-0" class="reference"><a href="#cite_note-Ansible_Linux_packages-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Architecture">Architecture</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=2" title="Edit section: Architecture"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Overview">Overview</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=3" title="Edit section: Overview"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ansible helps to manage multiple machines by selecting portions of Ansible's <a href="#Inventory_configuration">inventory</a> stored in simple <a href="/wiki/Plain_text" title="Plain text">plain text</a> files. The inventory is configurable, and target machine inventory can be sourced dynamically or from cloud-based sources in different formats (<a href="/wiki/YAML" title="YAML">YAML</a>, <a href="/wiki/INI_file" title="INI file">INI</a>).<sup id="cite_ref-Inventory_14-0" class="reference"><a href="#cite_note-Inventory-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Sensitive data can be stored in encrypted files using Ansible Vault<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup> since 2014.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>
+In contrast with other popular configuration-management software — such as <a href="/wiki/Chef_(software)" class="mw-redirect" title="Chef (software)">Chef</a>, <a href="/wiki/Puppet_(software)" title="Puppet (software)">Puppet</a>, <a href="/wiki/Salt_(software)" title="Salt (software)">Salt</a> and <a href="/wiki/CFEngine" title="CFEngine">CFEngine</a> — Ansible uses an <i>agentless</i> architecture,<sup id="cite_ref-The_Benefits_of_Agentless_Architecture_17-0" class="reference"><a href="#cite_note-The_Benefits_of_Agentless_Architecture-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup> with
+Ansible software not normally running or even installed on the controlled node.<sup id="cite_ref-The_Benefits_of_Agentless_Architecture_17-1" class="reference"><a href="#cite_note-The_Benefits_of_Agentless_Architecture-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>  Instead, Ansible orchestrates a node by installing and running <i>modules</i> on the node temporarily via SSH.  For the duration of an orchestration task, a process running the module communicates with the controlling machine with a <a href="/wiki/JSON" title="JSON">JSON</a>-based protocol via its standard input and output.<sup id="cite_ref-Ansible_in_Depth_18-0" class="reference"><a href="#cite_note-Ansible_in_Depth-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> When Ansible is not managing a node, it does not consume resources on the node because no <a href="/wiki/Daemon_(computing)" title="Daemon (computing)">daemons</a> are run or software installed.<sup id="cite_ref-The_Benefits_of_Agentless_Architecture_17-2" class="reference"><a href="#cite_note-The_Benefits_of_Agentless_Architecture-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Dependencies">Dependencies</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=4" title="Edit section: Dependencies"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ansible requires <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> to be installed on all managing machines, including <a href="/wiki/Pip_(package_manager)" title="Pip (package manager)">pip</a> package manager along with configuration-management software and its dependent packages. Managed network devices require no extra dependencies and are agentless.<sup id="cite_ref-:1_19-0" class="reference"><a href="#cite_note-:1-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Control_node">Control node</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=5" title="Edit section: Control node"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The control node (master host) is intended to manage (orchestrate) target machines (nodes termed as "<a href="#Inventory_configuration">inventory</a>", see below).<sup id="cite_ref-:2_20-0" class="reference"><a href="#cite_note-:2-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> Control nodes can be run from <a href="/wiki/Linux" title="Linux">Linux</a> and <a href="/wiki/Unix-like" title="Unix-like">Unix-like</a> operating systems (including <a href="/wiki/MacOS" title="MacOS">MacOS</a>); <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a> OSs are only supported through the <a href="/wiki/Windows_Subsystem_for_Linux" title="Windows Subsystem for Linux">Windows Subsystem for Linux</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup> Multiple control nodes are allowed.<sup id="cite_ref-:2_20-1" class="reference"><a href="#cite_note-:2-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> Ansible does not require a single controlling machine for orchestration,<sup id="cite_ref-:0_22-0" class="reference"><a href="#cite_note-:0-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> ensuring that disaster recovery is simple.<sup id="cite_ref-:0_22-1" class="reference"><a href="#cite_note-:0-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup> Nodes are managed by the controlling node over <a href="/wiki/SSH" class="mw-redirect" title="SSH">SSH</a>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Design_goals">Design goals</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=6" title="Edit section: Design goals"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The design goals of Ansible include:<sup id="cite_ref-Ansible_in_Depth_18-1" class="reference"><a href="#cite_note-Ansible_in_Depth-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li>Minimal in nature. Management systems should not impose additional dependencies on the environment.<sup id="cite_ref-The_Benefits_of_Agentless_Architecture_17-3" class="reference"><a href="#cite_note-The_Benefits_of_Agentless_Architecture-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Consistent. With Ansible, one should be able to create consistent environments.</li>
+<li>Secure. Ansible does not deploy agents to nodes. Only <a href="/wiki/OpenSSH" title="OpenSSH">OpenSSH</a> and Python are required on the managed nodes.<sup id="cite_ref-The_Benefits_of_Agentless_Architecture_17-4" class="reference"><a href="#cite_note-The_Benefits_of_Agentless_Architecture-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:0_22-2" class="reference"><a href="#cite_note-:0-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Reliable. When carefully written, an Ansible <a href="#Playbooks">playbook</a> can be <a href="/wiki/Idempotent" class="mw-redirect" title="Idempotent">idempotent</a>, to prevent unexpected side effects on the managed systems.<sup id="cite_ref-Achieving_Rolling_Updates_and_Continuous_Deployment_with_Zero_Downtime_23-0" class="reference"><a href="#cite_note-Achieving_Rolling_Updates_and_Continuous_Deployment_with_Zero_Downtime-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup> It is possible to write playbooks that are not idempotent.</li>
+<li>Minimal learning required. Playbooks use an easy and descriptive language based on YAML and <a href="/wiki/Jinja_(template_engine)" title="Jinja (template engine)">Jinja templates</a>.</li></ul>
+<div class="mw-heading mw-heading3"><h3 id="Modules">Modules</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=7" title="Edit section: Modules"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Modules<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup> are mostly standalone and can be written in a standard scripting language (such as Python, <a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/Ruby_(programming_language)" title="Ruby (programming language)">Ruby</a>, Bash, etc.)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="I have been working on Ansible for about half a decade, and I know for a fact that you can write Ansible modules in any language, provided the language is Python. (September 2023)">citation needed</span></a></i>&#93;</sup>. One of the guiding goals of modules is idempotency, which means that even if an operation is repeated multiple times (e.g., upon recovery from an outage), it will always place the system into the same state.<sup id="cite_ref-Ansible_in_Depth_18-2" class="reference"><a href="#cite_note-Ansible_in_Depth-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (November 2021)">non-primary source needed</span></a></i>&#93;</sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Inventory_configuration">Inventory configuration</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=8" title="Edit section: Inventory configuration"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Location of target nodes is specified through inventory configuration lists (INI or YAML formatted) located at <code class="mw-highlight mw-highlight-lang-text mw-content-ltr" style="" dir="ltr">/etc/ansible/hosts</code> (on Linux).<sup id="cite_ref-Inventory_14-1" class="reference"><a href="#cite_note-Inventory-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup> The configuration file lists either the <a href="/wiki/IP_address" title="IP address">IP address</a> or <a href="/wiki/Hostname" title="Hostname">hostname</a> of each node that is accessible by Ansible. In addition, nodes can be assigned to groups.<sup id="cite_ref-Inventory_14-2" class="reference"><a href="#cite_note-Inventory-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>An example inventory format (<a href="/wiki/INI_file" title="INI file">INI file</a>):
+</p>
+<div class="mw-highlight mw-highlight-lang-ini mw-content-ltr" dir="ltr"><pre><span></span><span class="na">192.168.6.1</span>
+
+<span class="k">[webservers]</span>
+<span class="na">foo.example.com</span>
+<span class="na">bar.example.com</span>
+</pre></div>
+<p>This configuration file specifies three nodes: the first node is specified by an IP address, and the latter two nodes are specified by hostnames. Additionally, the latter two nodes are grouped under the <code>webservers</code> group.
+</p><p>Ansible can also use a custom <i>Dynamic Inventory</i> script, which can dynamically pull data from a different system,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup> and supports groups of groups.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Playbooks">Playbooks</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=9" title="Edit section: Playbooks"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Playbooks are <a href="/wiki/YAML" title="YAML">YAML</a> files that store lists of tasks for repeated<sup id="cite_ref-Playbooks_28-0" class="reference"><a href="#cite_note-Playbooks-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-:2_20-2" class="reference"><a href="#cite_note-:2-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup> executions on managed nodes.<sup id="cite_ref-:2_20-3" class="reference"><a href="#cite_note-:2-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup> Each Playbook maps (associates) a group of hosts to a set of roles. Each role is represented by calls to Ansible tasks.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">&#91;</span>30<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Ansible_Automation_Platform">Ansible Automation Platform</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=10" title="Edit section: Ansible Automation Platform"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><span class="anchor" id="AWX"></span>
+The Ansible Automation Platform (AAP) is a <a href="/wiki/REST_API" class="mw-redirect" title="REST API">REST API</a>, <a href="/wiki/Web_service" title="Web service">web service</a>, and <a href="/wiki/Web_application" title="Web application">web-based interface</a> (application) designed to make Ansible more accessible to people with a wide range of IT skillsets. It is a platform composed of multiple components including developer tooling, an operations interface, as well as an Automation Mesh to enable automation tasks at scale across data centers. AAP is a commercial product supported by Red Hat, Inc. but derived 17+ <a href="/wiki/Upstream_(software_development)" title="Upstream (software development)">upstream</a> open source projects including the AWX upstream project (formerly Ansible Tower derived from), which has been open source since September 2017.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">&#91;</span>31<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span class="cite-bracket">&#91;</span>32<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span class="cite-bracket">&#91;</span>33<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span class="cite-bracket">&#91;</span>34<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>There also is another open source alternative to Tower, Semaphore, written in <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span class="cite-bracket">&#91;</span>35<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span class="cite-bracket">&#91;</span>36<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Platform_support">Platform support</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=11" title="Edit section: Platform support"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Control machines have to be a Linux/Unix host (for example <a href="/wiki/BSD" class="mw-redirect" title="BSD">BSD</a>, <a href="/wiki/CentOS" title="CentOS">CentOS</a>, <a href="/wiki/Debian" title="Debian">Debian</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a>, <a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Red Hat Enterprise Linux</a>, <a href="/wiki/SUSE_Linux_Enterprise" title="SUSE Linux Enterprise">SUSE Linux Enterprise</a>, <a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a><sup id="cite_ref-Ansible_Linux_packages_13-1" class="reference"><a href="#cite_note-Ansible_Linux_packages-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>), and Python 2.7 or 3.5 is required.<sup id="cite_ref-:1_19-1" class="reference"><a href="#cite_note-:1-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Managed nodes, if they are Unix-like, must have Python 2.4 or later. For managed nodes with Python 2.5 or earlier, the <code>python-simplejson</code> package is also required.<sup id="cite_ref-Getting_Started_37-0" class="reference"><a href="#cite_note-Getting_Started-37"><span class="cite-bracket">&#91;</span>37<span class="cite-bracket">&#93;</span></a></sup> Since version 1.7, Ansible can also manage Windows<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span class="cite-bracket">&#91;</span>38<span class="cite-bracket">&#93;</span></a></sup> nodes.<sup id="cite_ref-Getting_Started_37-1" class="reference"><a href="#cite_note-Getting_Started-37"><span class="cite-bracket">&#91;</span>37<span class="cite-bracket">&#93;</span></a></sup> In this case, native PowerShell remoting supported by the WS-Management protocol is used instead of SSH.
+</p><p>Ansible can deploy to <a href="/wiki/Bare_metal" class="mw-redirect" title="Bare metal">bare metal</a> hosts, <a href="/wiki/Virtual_machines" class="mw-redirect" title="Virtual machines">virtual machines</a>, and cloud environments.<sup id="cite_ref-Ansible_in_Depth_18-3" class="reference"><a href="#cite_note-Ansible_in_Depth-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="AnsibleFest">AnsibleFest</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=12" title="Edit section: AnsibleFest"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>AnsibleFest is an annual conference of the Ansible community of users, contributors, etc.<sup id="cite_ref-AnsibleFest_39-0" class="reference"><a href="#cite_note-AnsibleFest-39"><span class="cite-bracket">&#91;</span>39<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Year
+</th>
+<th>Location
+</th></tr>
+<tr>
+<td>2013
+</td>
+<td>New York, New York, US
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td>San Francisco, California, US
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>New York, New York, US
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td>San Francisco, California, US
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td>London, UK
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td>New York, New York, US
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td>San Francisco, California, US
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>London, UK
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>San Francisco, California, US
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>Brooklyn, New York, US
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td>London, UK
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td>San Francisco, California, US
+</td></tr>
+<tr>
+<td>2018
+</td>
+<td>Austin, Texas, US
+</td></tr>
+<tr>
+<td>2019
+</td>
+<td>Atlanta, Georgia, US
+</td></tr>
+<tr>
+<td>2020
+</td>
+<td>Virtual only due to <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic">COVID-19 pandemic</a>
+</td></tr>
+<tr>
+<td>2021
+</td>
+<td>Virtual only due to <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic">COVID-19 pandemic</a>
+</td></tr>
+<tr>
+<td>2022
+</td>
+<td>Chicago, Illinois, US
+</td></tr>
+<tr>
+<td>2023
+</td>
+<td>Boston, Massachusetts, US
+</td></tr>
+<tr>
+<td>2024
+</td>
+<td>Denver, Colorado, US
+</td></tr>
+<tr>
+<td>2025
+</td>
+<td>Boston, Massachusetts, US<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span class="cite-bracket">&#91;</span>40<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=13" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1266661725">.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</style><ul role="navigation" aria-label="Portals" class="noprint portalbox portalborder portalright">
+<li class="portalbox-entry"><span class="portalbox-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png" decoding="async" width="28" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/42px-Free_and_open-source_software_logo_%282009%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/56px-Free_and_open-source_software_logo_%282009%29.svg.png 2x" data-file-width="512" data-file-height="512" /></span></span></span><span class="portalbox-link"><a href="/wiki/Portal:Free_and_open-source_software" title="Portal:Free and open-source software">Free and open-source software portal</a></span></li></ul>
+<ul><li><a href="/wiki/Comparison_of_open-source_configuration_management_software" title="Comparison of open-source configuration management software">Comparison of open-source configuration management software</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=14" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-wikidata-4c5b92789e8190b21245479e61b45bf1be01853f-v18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-wikidata-4c5b92789e8190b21245479e61b45bf1be01853f-v18_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://github.com/ansible/ansible/releases/tag/v2.18.2">"Release 2.18.2"</a>. 27 January 2025<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2025</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Release+2.18.2&amp;rft.date=2025-01-27&amp;rft_id=https%3A%2F%2Fgithub.com%2Fansible%2Fansible%2Freleases%2Ftag%2Fv2.18.2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFStaff_writer" class="citation web cs1">Staff writer. <a rel="nofollow" class="external text" href="https://www.ansible.com/how-ansible-works">"Overview – How Ansible Works"</a>. <i>ansible.com</i>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">December 7,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ansible.com&amp;rft.atitle=Overview+%E2%80%93+How+Ansible+Works&amp;rft.pages=1&amp;rft.au=Staff+writer&amp;rft_id=https%3A%2F%2Fwww.ansible.com%2Fhow-ansible-works&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#control-node-requirements">"Ansible Documentation-Installation Guide"</a>. <i>docs.ansible.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 7,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Ansible+Documentation-Installation+Guide&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Finstallation_guide%2Fintro_installation.html%23control-node-requirements&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Bernardo_2006_p._18-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bernardo_2006_p._18_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFBernardoMurphy2006" class="citation book cs1">Bernardo, Susan; Murphy, Graham J (2006). <span class="id-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="https://archive.org/details/ursulakleguincri00bern"><i>Ursula K. Le Guin&#160;: a critical companion</i></a></span>. Westport, Conn: Greenwood Press. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/ursulakleguincri00bern/page/n32">18</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-313-02730-7" title="Special:BookSources/978-0-313-02730-7"><bdi>978-0-313-02730-7</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/oclc/230345464">230345464</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ursula+K.+Le+Guin+%3A+a+critical+companion&amp;rft.place=Westport%2C+Conn&amp;rft.pages=18&amp;rft.pub=Greenwood+Press&amp;rft.date=2006&amp;rft_id=info%3Aoclcnum%2F230345464&amp;rft.isbn=978-0-313-02730-7&amp;rft.aulast=Bernardo&amp;rft.aufirst=Susan&amp;rft.au=Murphy%2C+Graham+J&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fursulakleguincri00bern&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FAQ-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FAQ_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/reference_appendices/faq.html">"Frequently Asked Questions"</a>. <i>docs.ansible.com</i>. Ansible Documentation. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 7,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Frequently+Asked+Questions&amp;rft.pages=1&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Freference_appendices%2Ffaq.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFDeHaan2014" class="citation web cs1">DeHaan, Michael (January 29, 2014). <a rel="nofollow" class="external text" href="https://groups.google.com/d/msg/ansible-project/djZklLE2wIE/XCEOIq0RbN4J">"Google Groups Post – Ansible Project"</a>. <i>groups.google.com</i>. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">April 26,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=groups.google.com&amp;rft.atitle=Google+Groups+Post+%E2%80%93+Ansible+Project&amp;rft.pages=1&amp;rft.date=2014-01-29&amp;rft.aulast=DeHaan&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fgroups.google.com%2Fd%2Fmsg%2Fansible-project%2FdjZklLE2wIE%2FXCEOIq0RbN4J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFMaughan2012" class="citation web cs1">Maughan, Mike (April 17, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121114031927/http://www.coloandcloud.com/editorial/an-interview-with-ansible-author-michael-dehaan/">"An Interview with Ansible Author Michael DeHaan"</a>. <i>coloandcloud.com</i>. Maughansem LLC. p.&#160;1. Archived from <a rel="nofollow" class="external text" href="http://www.coloandcloud.com/editorial/an-interview-with-ansible-author-michael-dehaan">the original</a> on November 14, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">November 5,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=coloandcloud.com&amp;rft.atitle=An+Interview+with+Ansible+Author+Michael+DeHaan&amp;rft.pages=1&amp;rft.date=2012-04-17&amp;rft.aulast=Maughan&amp;rft.aufirst=Mike&amp;rft_id=http%3A%2F%2Fwww.coloandcloud.com%2Feditorial%2Fan-interview-with-ansible-author-michael-dehaan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150905211125/http://www.ansible.com/about">"About Ansible"</a>. Ansible, Inc. p.&#160;1. Archived from <a rel="nofollow" class="external text" href="http://www.ansible.com">the original</a> on September 5, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">July 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Ansible&amp;rft.pages=1&amp;rft.pub=Ansible%2C+Inc.&amp;rft_id=http%3A%2F%2Fwww.ansible.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFBloomberg_Research" class="citation web cs1">Bloomberg Research. <a rel="nofollow" class="external text" href="https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=233465248">"Ansible, Inc.: Private Company Information"</a>. <i>Internet Software and Services</i>. <a href="/wiki/Bloomberg_L.P." title="Bloomberg L.P.">Bloomberg L.P.</a> p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">July 8,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Internet+Software+and+Services&amp;rft.atitle=Ansible%2C+Inc.%3A+Private+Company+Information&amp;rft.pages=1&amp;rft.au=Bloomberg+Research&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fresearch%2Fstocks%2Fprivate%2Fsnapshot.asp%3FprivcapId%3D233465248&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150905195548/http://www.ansible.com/about-team">"About Team"</a>. 2015-09-05. Archived from <a rel="nofollow" class="external text" href="http://www.ansible.com/about-team">the original</a> on 2015-09-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Team&amp;rft.date=2015-09-05&amp;rft_id=http%3A%2F%2Fwww.ansible.com%2Fabout-team&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFNovet2015" class="citation web cs1">Novet, Jordan (October 15, 2015). <a rel="nofollow" class="external text" href="https://venturebeat.com/2015/10/15/source-red-hat-is-buying-ansible-for-more-than-100m/">"Source: Red Hat is buying Ansible for more than $100M"</a>. <i>venturebeat.com</i>. <a href="/wiki/VentureBeat" title="VentureBeat">VentureBeat</a>, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">October 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=venturebeat.com&amp;rft.atitle=Source%3A+Red+Hat+is+buying+Ansible+for+more+than+%24100M&amp;rft.pages=1&amp;rft.date=2015-10-15&amp;rft.aulast=Novet&amp;rft.aufirst=Jordan&amp;rft_id=https%3A%2F%2Fventurebeat.com%2F2015%2F10%2F15%2Fsource-red-hat-is-buying-ansible-for-more-than-100m%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFStaff_writer2015" class="citation web cs1">Staff writer (October 16, 2015). <a rel="nofollow" class="external text" href="http://www.redhat.com/en/about/press-releases/red-hat-acquire-it-automation-and-devops-leader-ansible">"Red Hat to Acquire IT Automation and DevOps Leader Ansible"</a>. <i>redhat.com</i>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">October 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=redhat.com&amp;rft.atitle=Red+Hat+to+Acquire+IT+Automation+and+DevOps+Leader+Ansible&amp;rft.date=2015-10-16&amp;rft.au=Staff+writer&amp;rft_id=http%3A%2F%2Fwww.redhat.com%2Fen%2Fabout%2Fpress-releases%2Fred-hat-acquire-it-automation-and-devops-leader-ansible&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ansible_Linux_packages-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ansible_Linux_packages_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ansible_Linux_packages_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFUlianytskyi" class="citation web cs1">Ulianytskyi, Mykola. <a rel="nofollow" class="external text" href="https://pkgs.org/download/ansible">"ansible Download (DEB, RPM, TGZ, TXZ, XZ)"</a>. <i>pkgs.org</i>. Linux Packages Search. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">November 5,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pkgs.org&amp;rft.atitle=ansible+Download+%28DEB%2C+RPM%2C+TGZ%2C+TXZ%2C+XZ%29&amp;rft.pages=1&amp;rft.aulast=Ulianytskyi&amp;rft.aufirst=Mykola&amp;rft_id=https%3A%2F%2Fpkgs.org%2Fdownload%2Fansible&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Inventory-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Inventory_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Inventory_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Inventory_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html">"Inventory"</a>. <i>docs.ansible.com</i>. Ansible Documentation. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 7,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Inventory&amp;rft.pages=1&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Finventory_guide%2Fintro_inventory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/user_guide/vault.html">"Ansible Vault — Ansible Documentation"</a>. <i>docs.ansible.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Ansible+Vault+%E2%80%94+Ansible+Documentation&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fuser_guide%2Fvault.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://github.com/ansible/ansible/commit/427b8dc78de43aa02be968bbbcb2f10ed487fe1e">"Ansible vault: a framework for encrypting any playbook or var file. · ansible/ansible@427b8dc"</a>. <i>GitHub</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Ansible+vault%3A+a+framework+for+encrypting+any+playbook+or+var+file.+%C2%B7+ansible%2Fansible%40427b8dc&amp;rft_id=https%3A%2F%2Fgithub.com%2Fansible%2Fansible%2Fcommit%2F427b8dc78de43aa02be968bbbcb2f10ed487fe1e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_Benefits_of_Agentless_Architecture-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Benefits_of_Agentless_Architecture_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Benefits_of_Agentless_Architecture_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Benefits_of_Agentless_Architecture_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_Benefits_of_Agentless_Architecture_17-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-The_Benefits_of_Agentless_Architecture_17-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdn2.hubspot.net/hub/330046/file-479013288-pdf/pdf_content/The_Benefits_of_Agentless_Architecture.pdf?t=1390852839000">"The Benefits of Agentless Architecture"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Benefits+of+Agentless+Architecture&amp;rft.pages=5&amp;rft.pub=Red+Hat%2C+Inc.&amp;rft_id=http%3A%2F%2Fcdn2.hubspot.net%2Fhub%2F330046%2Ffile-479013288-pdf%2Fpdf_content%2FThe_Benefits_of_Agentless_Architecture.pdf%3Ft%3D1390852839000&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Ansible_in_Depth-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ansible_in_Depth_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ansible_in_Depth_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ansible_in_Depth_18-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Ansible_in_Depth_18-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdn2.hubspot.net/hub/330046/file-480366556-pdf/pdf_content/Ansible_in_Depth.pdf?t=1390852822000">"Ansible in Depth"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ansible+in+Depth&amp;rft.pages=5&amp;rft.pub=Red+Hat%2C+Inc.&amp;rft_id=http%3A%2F%2Fcdn2.hubspot.net%2Fhub%2F330046%2Ffile-480366556-pdf%2Fpdf_content%2FAnsible_in_Depth.pdf%3Ft%3D1390852822000&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170710001211/https://docs.ansible.com/ansible/python_3_support.html">"Python 3 Support"</a>. <i>docs.ansible.com</i>. Ansible Documentation. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1. Archived from <a rel="nofollow" class="external text" href="http://docs.ansible.com/ansible/python_3_support.html">the original</a> on July 10, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">July 6,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Python+3+Support&amp;rft.pages=1&amp;rft_id=http%3A%2F%2Fdocs.ansible.com%2Fansible%2Fpython_3_support.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:2_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:2_20-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/user_guide/basic_concepts.html">"Ansible concepts — Ansible Documentation"</a>. <i>docs.ansible.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Ansible+concepts+%E2%80%94+Ansible+Documentation&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fuser_guide%2Fbasic_concepts.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html">"Installing Ansible"</a>. <i>docs.ansible.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2023-01-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Installing+Ansible&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Finstallation_guide%2Fintro_installation.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://docs.ansible.com/ansible/latest/intro_installation.html#managed-node-requirements">"Installation Guide — Ansible Documentation"</a>. <i>docs.ansible.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Installation+Guide+%E2%80%94+Ansible+Documentation&amp;rft_id=http%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fintro_installation.html%23managed-node-requirements&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Achieving_Rolling_Updates_and_Continuous_Deployment_with_Zero_Downtime-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Achieving_Rolling_Updates_and_Continuous_Deployment_with_Zero_Downtime_23-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://cdn2.hubspot.net/hub/330046/file-479069823-pdf/pdf_content/Achieving_Rolling_Updates_and_Continuous_Deployment_with_Zero_Downtime.pdf">"Achieving Rolling Updates and Continuous Deployment with Zero Downtime"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;7.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Achieving+Rolling+Updates+and+Continuous+Deployment+with+Zero+Downtime&amp;rft.pages=7&amp;rft.pub=Red+Hat%2C+Inc.&amp;rft_id=http%3A%2F%2Fcdn2.hubspot.net%2Fhub%2F330046%2Ffile-479069823-pdf%2Fpdf_content%2FAchieving_Rolling_Updates_and_Continuous_Deployment_with_Zero_Downtime.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/collections/index_module.html">"Module Index — Ansible Documentation"</a>. <i>docs.ansible.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Module+Index+%E2%80%94+Ansible+Documentation&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fcollections%2Findex_module.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://docs.ansible.com/ansible/latest/intro_inventory.html">"Working with Inventory — Ansible Documentation"</a>. <i>docs.ansible.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Working+with+Inventory+%E2%80%94+Ansible+Documentation&amp;rft_id=http%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fintro_inventory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190805173530/https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html">"Dynamic Inventory"</a>. <i>docs.ansible.com</i>. Ansible Documentation. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1. Archived from <a rel="nofollow" class="external text" href="http://docs.ansible.com/ansible/intro_dynamic_inventory.html">the original</a> on August 5, 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Dynamic+Inventory&amp;rft.pages=1&amp;rft_id=http%3A%2F%2Fdocs.ansible.com%2Fansible%2Fintro_dynamic_inventory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html">"How to build your inventory — Ansible Documentation"</a>. <i>docs.ansible.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=How+to+build+your+inventory+%E2%80%94+Ansible+Documentation&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fuser_guide%2Fintro_inventory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Playbooks-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Playbooks_28-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html">"Playbooks"</a>. <i>docs.ansible.com</i>. Ansible Documentation. Red Hat, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 7,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Playbooks&amp;rft.pages=1&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fplaybook_guide%2Fplaybooks_intro.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#about-playbooks">"Intro to playbooks — Ansible Documentation"</a>. <i>docs.ansible.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-11-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Intro+to+playbooks+%E2%80%94+Ansible+Documentation&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fuser_guide%2Fplaybooks_intro.html%23about-playbooks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170717215320/http://docs.ansible.com:80/ansible/playbooks_best_practices.html">"Task And Handler Organization For A Role"</a>. <i>docs.ansible.com</i>. Ansible Documentation. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1. Archived from <a rel="nofollow" class="external text" href="http://docs.ansible.com/ansible/playbooks_best_practices.html#task-and-handler-organization-for-a-role">the original</a> on July 17, 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">November 25,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Task+And+Handler+Organization+For+A+Role&amp;rft.pages=1&amp;rft_id=http%3A%2F%2Fdocs.ansible.com%2Fansible%2Fplaybooks_best_practices.html%23task-and-handler-organization-for-a-role&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFRedditors2016" class="citation web cs1">Redditors (February 19, 2016). <a rel="nofollow" class="external text" href="https://www.reddit.com/r/ansible/comments/46juz4/ansible_announces_tower_to_be_open_source_in_the/">"Ansible announces Tower to be Open Source in the near future on AnsibleFest!"</a>. <i>reddit.com</i>. <a href="/wiki/Reddit" title="Reddit">Reddit</a>. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reddit.com&amp;rft.atitle=Ansible+announces+Tower+to+be+Open+Source+in+the+near+future+on+AnsibleFest%21&amp;rft.pages=1&amp;rft.date=2016-02-19&amp;rft.au=Redditors&amp;rft_id=https%3A%2F%2Fwww.reddit.com%2Fr%2Fansible%2Fcomments%2F46juz4%2Fansible_announces_tower_to_be_open_source_in_the%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFStaff_writer" class="citation web cs1">Staff writer. <a rel="nofollow" class="external text" href="https://www.ansible.com/open-tower">"The Open Tower Project"</a>. <i>ansible.com/open-tower</i>. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ansible.com%2Fopen-tower&amp;rft.atitle=The+Open+Tower+Project&amp;rft.pages=1&amp;rft.au=Staff+writer&amp;rft_id=https%3A%2F%2Fwww.ansible.com%2Fopen-tower&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFHat2024" class="citation web cs1">Hat, Ansible, Red (7 May 2024). <a rel="nofollow" class="external text" href="https://www.ansible.com/products/awx-project/faq">"AWX Project FAQ &#124; Ansible.com"</a>. <i>www.ansible.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ansible.com&amp;rft.atitle=AWX+Project+FAQ+%26%23124%3B+Ansible.com&amp;rft.date=2024-05-07&amp;rft.aulast=Hat&amp;rft.aufirst=Ansible%2C+Red&amp;rft_id=https%3A%2F%2Fwww.ansible.com%2Fproducts%2Fawx-project%2Ffaq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span><span class="cs1-maint citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}</code>:  CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://github.com/ansible/awx">"ansible/awx"</a>. March 25, 2020 &#8211; via GitHub.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ansible%2Fawx&amp;rft.date=2020-03-25&amp;rft_id=https%3A%2F%2Fgithub.com%2Fansible%2Fawx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFSemaphore_community" class="citation web cs1">Semaphore community. <a rel="nofollow" class="external text" href="https://www.ansible-semaphore.com/api-docs/">"Semaphore API"</a>. <i>ansible-semaphore.com</i>. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">Sep 19,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ansible-semaphore.com&amp;rft.atitle=Semaphore+API&amp;rft.pages=1&amp;rft.au=Semaphore+community&amp;rft_id=https%3A%2F%2Fwww.ansible-semaphore.com%2Fapi-docs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFSemaphore_community" class="citation web cs1">Semaphore community. <a rel="nofollow" class="external text" href="https://github.com/ansible-semaphore/semaphore">"ansible-semaphore"</a>. <i>github.com/ansible-semaphore</i>. Castaway Consulting LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">Feb 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=github.com%2Fansible-semaphore&amp;rft.atitle=ansible-semaphore&amp;rft.au=Semaphore+community&amp;rft_id=https%3A%2F%2Fgithub.com%2Fansible-semaphore%2Fsemaphore&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Getting_Started-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-Getting_Started_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Getting_Started_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://docs.ansible.com/ansible/latest/getting_started/index.html">"Getting started"</a>. <i>docs.ansible.com</i>. Ansible Documentation. <a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a>, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 7,</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=docs.ansible.com&amp;rft.atitle=Getting+started&amp;rft.pages=1&amp;rft_id=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fgetting_started%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite id="CITEREFDeHaan2014" class="citation web cs1">DeHaan, Michael (August 6, 2014). <a rel="nofollow" class="external text" href="http://www.ansible.com/blog/ansible-1.7-is-released-windows-beta-and-more">"Ansible 1.7 is released – Windows beta and more!"</a>. <i>ansible.com/blog</i>. The Inside Playbook. Ansible, Inc. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ansible.com%2Fblog&amp;rft.atitle=Ansible+1.7+is+released+%E2%80%93+Windows+beta+and+more%21&amp;rft.pages=1&amp;rft.date=2014-08-06&amp;rft.aulast=DeHaan&amp;rft.aufirst=Michael&amp;rft_id=http%3A%2F%2Fwww.ansible.com%2Fblog%2Fansible-1.7-is-released-windows-beta-and-more&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-AnsibleFest-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-AnsibleFest_39-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ansible.com/ansiblefest">"AnsibleFest"</a>. <i>Ansible</i>. Red Hat, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">October 4,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ansible&amp;rft.atitle=AnsibleFest&amp;rft_id=https%3A%2F%2Fwww.ansible.com%2Fansiblefest&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.redhat.com/en/blog/save-date-red-hat-summit-2025">"Save the date for Red Hat Summit 2025"</a>. <i>www.redhat.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.redhat.com&amp;rft.atitle=Save+the+date+for+Red+Hat+Summit+2025&amp;rft_id=https%3A%2F%2Fwww.redhat.com%2Fen%2Fblog%2Fsave-date-red-hat-summit-2025&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible+%28software%29" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible_(software)&amp;action=edit&amp;section=15" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.ansible.com/">Official website</a></span></span> <span class="mw-valign-text-top" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2852503#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236075235">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="Red_Hat85" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374" /><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Red_Hat" title="Template:Red Hat"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Red_Hat" title="Template talk:Red Hat"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Red_Hat" title="Special:EditPage/Template:Red Hat"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Red_Hat85" style="font-size:114%;margin:0 4em"><a href="/wiki/Red_Hat" title="Red Hat">Red Hat</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major products</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Red_Hat_Enterprise_Linux" title="Red Hat Enterprise Linux">Enterprise Linux</a></li>
+<li><a href="/wiki/Red_Hat_Cluster_Suite" title="Red Hat Cluster Suite">Cluster Suite</a></li>
+<li><a href="/wiki/GFS2" title="GFS2">GFS2</a></li>
+<li><a href="/wiki/WildFly" title="WildFly">WildFly</a></li>
+<li><a href="/wiki/Virtual_Machine_Manager" class="mw-redirect" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
+<li><a href="/wiki/Ceph_(software)" title="Ceph (software)">Ceph</a></li>
+<li><a href="/wiki/Satellite_(software)" title="Satellite (software)">Satellite</a></li>
+<li><a href="/wiki/Simple_Protocol_for_Independent_Computing_Environments" title="Simple Protocol for Independent Computing Environments">Simple Protocol for Independent Computing Environments</a></li>
+<li><a class="mw-selflink selflink">Ansible</a></li>
+<li><a href="/wiki/CentOS" title="CentOS">CentOS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Services</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Red_Hat_Network" title="Red Hat Network">Network</a></li>
+<li><a href="/wiki/Red_Hat_Virtualization" title="Red Hat Virtualization">Virtualization</a></li>
+<li><a href="/wiki/OpenShift" title="OpenShift">OpenShift</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Projects</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fedora_Project" title="Fedora Project">Fedora Project</a></li>
+<li><a href="/wiki/FreeOTP" title="FreeOTP">FreeOTP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Red_Hat_Linux" title="Red Hat Linux">Red Hat Linux</a></li>
+<li><a href="/wiki/Mugshot_(website)" title="Mugshot (website)">Mugshot</a></li>
+<li><a href="/wiki/Spacewalk_(software)" title="Spacewalk (software)">Spacewalk</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jim_Whitehurst" title="Jim Whitehurst">Jim Whitehurst</a></li>
+<li><a href="/wiki/Matthew_Szulik" title="Matthew Szulik">Matthew Szulik</a></li>
+<li><a href="/wiki/Bob_Young_(businessman)" title="Bob Young (businessman)">Bob Young</a></li>
+<li><a href="/wiki/Marc_Ewing" title="Marc Ewing">Marc Ewing</a></li>
+<li><a href="/wiki/Michael_Tiemann" title="Michael Tiemann">Michael Tiemann</a></li>
+<li><a href="/wiki/Paul_Cormier_(engineer)" title="Paul Cormier (engineer)">Paul Cormier</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mergers and acquisitions</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/C2Net" title="C2Net">C2Net</a></li>
+<li><a href="/wiki/Cygnus_Solutions" title="Cygnus Solutions">Cygnus Solutions</a></li>
+<li><a href="/wiki/Gluster" title="Gluster">Gluster</a></li>
+<li><a href="/wiki/Inktank_Storage" title="Inktank Storage">Inktank Storage</a></li>
+<li><a href="/wiki/MetaMatrix" title="MetaMatrix">MetaMatrix</a></li>
+<li><a href="/wiki/Qumranet" title="Qumranet">Qumranet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/IBM" title="IBM">IBM</a></li>
+<li><a href="/wiki/Fedora_Linux" title="Fedora Linux">Fedora Linux</a></li>
+<li><a href="/wiki/Red_Hat_Certification_Program" title="Red Hat Certification Program">Certification Program</a></li>
+<li><a href="/wiki/Red_Hat_Enterprise_Linux_derivatives" title="Red Hat Enterprise Linux derivatives">Enterprise Linux derivatives</a></li>
+<li><a href="/wiki/Red_Hat_Tower" title="Red Hat Tower">Tower</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1236075235" /></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2852503#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata596" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2852503#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata596" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2852503#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/21155767399227762525">VIAF</a></span></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em"><ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb17808436j">France</a></span></li><li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb17808436j">BnF data</a></span></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐8669bc5c8‐8495v
+Cached time: 20250318162405
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.812 seconds
+Real time usage: 1.086 seconds
+Preprocessor visited node count: 3708/1000000
+Post‐expand include size: 107366/2097152 bytes
+Template argument size: 6137/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 158551/5000000 bytes
+Lua time usage: 0.589/10.000 seconds
+Lua memory usage: 15635420/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1005.538      1 -total
+ 48.58%  488.533      2 Template:Infobox
+ 45.72%  459.763      1 Template:Infobox_software
+ 27.87%  280.273      5 Template:Wikidata
+ 26.28%  264.302      1 Template:Infobox_software/simple
+ 15.25%  153.337      1 Template:Reflist
+ 11.50%  115.636     38 Template:Cite_web
+  7.20%   72.374      1 Template:Short_description
+  7.13%   71.724      1 Template:Red_Hat
+  6.76%   67.963      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:36219037:|#|:idhash:canonical and timestamp 20250318162405 and revision id 1269983907. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ansible_(software)&amp;oldid=1269983907">https://en.wikipedia.org/w/index.php?title=Ansible_(software)&amp;oldid=1269983907</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_software_programmed_in_Python" title="Category:Free software programmed in Python">Free software programmed in Python</a></li><li><a href="/wiki/Category:Configuration_management" title="Category:Configuration management">Configuration management</a></li><li><a href="/wiki/Category:Orchestration_software" title="Category:Orchestration software">Orchestration software</a></li><li><a href="/wiki/Category:Remote_administration_software" title="Category:Remote administration software">Remote administration software</a></li><li><a href="/wiki/Category:Software_distribution" title="Category:Software distribution">Software distribution</a></li><li><a href="/wiki/Category:Software_using_the_GNU_General_Public_License" title="Category:Software using the GNU General Public License">Software using the GNU General Public License</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_April_2022" title="Category:Wikipedia articles that are too technical from April 2022">Wikipedia articles that are too technical from April 2022</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2023" title="Category:Articles with unsourced statements from January 2023">Articles with unsourced statements from January 2023</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2023" title="Category:Articles with unsourced statements from September 2023">Articles with unsourced statements from September 2023</a></li><li><a href="/wiki/Category:All_pages_needing_factual_verification" title="Category:All pages needing factual verification">All pages needing factual verification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_November_2021" title="Category:Wikipedia articles needing factual verification from November 2021">Wikipedia articles needing factual verification from November 2021</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 17 January 2025, at 10:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ansible_(software)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Contents" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Ansible (software)</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>21 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-8669bc5c8-dns47","wgBackendResponseTime":183,"wgPageParseReport":{"limitreport":{"cputime":"0.812","walltime":"1.086","ppvisitednodes":{"value":3708,"limit":1000000},"postexpandincludesize":{"value":107366,"limit":2097152},"templateargumentsize":{"value":6137,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":158551,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1005.538      1 -total"," 48.58%  488.533      2 Template:Infobox"," 45.72%  459.763      1 Template:Infobox_software"," 27.87%  280.273      5 Template:Wikidata"," 26.28%  264.302      1 Template:Infobox_software/simple"," 15.25%  153.337      1 Template:Reflist"," 11.50%  115.636     38 Template:Cite_web","  7.20%   72.374      1 Template:Short_description","  7.13%   71.724      1 Template:Red_Hat","  6.76%   67.963      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.589","limit":"10.000"},"limitreport-memusage":{"value":15635420,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-8669bc5c8-8495v","timestamp":"20250318162405","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ansible (software)","url":"https:\/\/en.wikipedia.org\/wiki\/Ansible_(software)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2852503","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2852503","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-06-22T16:31:31Z","dateModified":"2025-01-17T10:26:41Z","headline":"open-source software platform for remote configuring and managing computers"}</script>
+</body>
+</html>
