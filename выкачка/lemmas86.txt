@@ -1,0 +1,974 @@
+abbr abbr
+above above
+acceptance acceptance
+accesskey accesskey
+account account
+achieve achieved
+action action actions
+activity activities activity
+actor actor
+adam adam
+add add added
+addison addison
+addition addition
+additional additional
+advanced advanced
+after after
+agile agile
+agree agree
+align align
+all all
+alliance alliance
+allow allowed allows
+alpha alpha
+also also
+alter altered
+amigo amigos
+amigos amigos
+among among
+analysis analysis
+analyst analysts
+another another
+any any
+anything anything
+api api
+appearance appearance
+application application applications
+applications applications
+apply applied apply
+approach approach approaches
+april april
+architecture architecture
+archive archived
+area area
+argument argument
+aria aria
+arise arise
+article article articles
+artificial artificial
+asd asd
+aspect aspect
+assurance assurance
+atdd atdd
+attribution attribution
+audience audience
+august august
+author author
+autocapitalize autocapitalize
+automate automate automated
+automation automation
+available available
+avoid avoid
+azad azad
+background background
+base base based
+basis basis
+bdd bdd
+be been being
+because because
+become becomes
+before before
+beginning beginning
+behat behat
+behave behave
+behavior behavior
+behavioral behavioral
+behaviour behaviour
+bellware bellware
+below below
+ben ben
+benefit benefit
+beter beter
+between between
+bitness bitness
+block block
+body bodies body
+bold bold
+book book
+border border
+borrow borrowed borrows
+borrowing borrowing
+both both
+bottom bottom
+boxtext boxtext
+bpmn bpmn
+bracket brackets
+brain brain
+brand brands
+break break breaks
+breakdown breakdowns
+bring bring
+build build building
+builder builder
+business business
+byte bytes
+cache cache cached
+cachereport cachereport
+call call calls
+can can
+canonical canonical
+cap caps
+capability capability
+caption caption
+carlos carlos
+case case cases
+category categories
+cco cco
+cdx cdx
+center center
+change changed changes
+chapter chapter
+characteristic characteristics
+child child
+choice choices
+citation citation
+cite cite
+claim claim
+clarification clarification
+class class classes
+classname classname
+clause clause clauses
+cleanroom cleanroom
+clear clear
+client client
+clientpref clientpref
+cmmi cmmi
+code code
+collaborate collaborate
+collaboration collaboration
+collapse collapse
+collection collection
+color color
+column column columns
+combine combines
+come come
+commission commissioned
+common common
+commons commons
+communication communication
+community community
+compil compiler
+complement complement
+completely completely
+complex complex
+complexity complexity
+complication complications
+component component
+computer computer
+concept concept
+concordion concordion
+concrete concrete
+conditional conditional
+conduct conduct
+conference conference
+configuration configuration
+consider considered
+consist consists
+construct constructs
+construction construction
+contact contact
+contain contain
+container container
+content content
+contents contents
+context context
+contribute contribute
+contribution contributions
+contributor contributors
+convenient convenient
+converge converge
+conversation conversation
+convert converted
+cookie cookie
+core core
+correspond corresponding
+count count
+counter counter
+cpu cpu
+cputime cputime
+craven craven
+create create created creates
+creative creative
+criterion criteria
+csrftoken csrftoken
+cucumber cucumber
+current current
+cursor cursor
+custom custom
+customer customer
+cynefin cynefin
+dad dad
+dan dan
+daniel daniel
+dark dark
+data data
+datemodify datemodified
+datepublished datepublished
+datum data
+day day
+ddd ddd
+debug debugging
+debugger debugger
+december december
+decide decide
+decimal decimal
+declarative declarative
+declaratively declaratively
+decoration decoration
+define define
+definition definition
+deployment deployment
+depth depth
+describe describe describes describing
+description description descriptions
+design design
+desire desired
+desired desired
+detail details
+deutsch deutsch
+develop developed
+developer developers
+developers developers
+development development
+devops devops
+different different
+differentiate differentiate
+directly directly
+disabled disabled
+discipline disciplines
+disclaimers disclaimers
+discuss discusses discussing
+discussion discussion
+display display
+div div
+dmy dmy
+do does
+document document documented documents
+documentation documentation
+doi doi
+domain domain
+donate donate
+download download
+drive driven
+driven driven
+dsdm dsdm
+dsl dsl dsls
+due due
+dutch dutch
+each each
+edit edit edited
+editor editors
+eesti eesti
+effect effect
+effective effective
+either either
+electrical electrical
+electronics electronics
+element element elements
+empty empty
+enable enabled enables
+encourage encourages
+encyclopedia encyclopedia
+engineer engineering
+engineering engineering
+english english
+enhancement enhancements
+enrich enrich
+ensure ensure
+enterprise enterprise
+entity entities entity
+entityaccesscount entityaccesscount
+enwiki enwiki
+enwikimwclientpreference enwikimwclientpreferences
+eric eric
+error error
+especially especially
+establish establishes
+euromicro euromicro
+evans evans
+event event events
+evolution evolution
+exact exact
+exactly exactly
+example example examples
+executable executable
+execute execute executes executing
+execution execution
+expand expand expanded
+expansion expansion
+expansiondepth expansiondepth
+expect expected
+expensive expensive
+expensivefunctioncount expensivefunctioncount
+experience experience
+expert experts
+expiry expiry
+explicit explicit
+explicitly explicitly
+export export
+express express
+extend extends
+extension extension
+extent extent
+fail fail fails
+false false
+fdd fdd
+feature feature features
+feb feb
+february february
+ferguson ferguson
+field field
+file file
+finally finally
+find finding
+first first
+fitnesse fitnesse
+fix fix
+float float
+focus focuses
+follow follow following
+font font
+foreach foreach
+form form formed
+formal formal
+formality formality
+formalize formalize
+formally formally
+format format formatted
+foundation foundation
+frame framing
+framework framework frameworks
+frameworks frameworks
+free free
+full full
+fullversionlist fullversionlist
+function function
+functional functional
+fundamentals fundamentals
+gauge gauge
+gehomepagesuggestededitsenabletopic gehomepagesuggestededitsenabletopics
+geneca geneca
+general general
+get get
+gherkin gherkin
+give given gives
+glossaries glossaries
+goal goal
+graphical graphical
+greek greek
+gui gui
+haque haque
+haring haring
+have having
+hdl hdl
+head heading
+header header
+headline headline
+hear hear
+heart heart
+height height
+hello hello
+help help
+hence hence
+here here
+hide hidden hide
+high high highest
+history history
+hlist hlist
+hoare hoare
+how how
+however however
+http http https
+human human
+icon icon
+ide ide
+idea idea ideas
+identify identified identifies identify
+idhash idhash
+iec iec
+ieee ieee
+iid iid
+image image
+imageobject imageobject
+img img
+imperative imperative
+imperatively imperatively
+implement implemented
+implementation implementation
+important important
+include include includes including
+incremental incremental
+individual individual
+information information
+infrastructure infrastructure
+inherit inherit
+initial initial
+inline inline
+input input
+inside inside
+insight insight
+insist insists
+integration integration
+intelligence intelligence
+interaction interactions
+interest interests
+interlanguage interlanguage
+into into
+introduction introduction
+introductory introductory
+involve involve involves
+ireb ireb
+isbn isbn
+iso iso
+issn issn
+issue issues
+italiano italiano
+item item
+itil itil
+its its
+january january
+jasmine jasmine
+java java
+javascript javascript
+jensen jensen
+john john
+jquery jquery
+july july
+jump jump
+june june
+kanban kanban
+keogh keogh
+kern kern
+ketil ketil
+key key
+keyword keyword
+knowledge knowledge
+label label
+laborious laborious
+language language languages
+last last
+lean lean
+learn learn
+leave left
+left left
+less less
+lessen lessen
+level level levels
+license license
+lifecycle lifecycle
+like like
+limit limit limited
+limitreport limitreport
+line line
+link link linked links
+list list
+listitem listitem
+liz liz
+load loaded
+loading loading
+lock lock
+log log logged
+logic logic
+logo logo
+look look looking
+low low lower
+ltr ltr
+lua lua
+mabey mabey
+magazine magazine magazines
+magyar magyar
+mahmudul mahmudul
+main main
+mainentity mainentity
+maint maint
+maintenance maintenance
+make make makes
+manage managed
+management management
+manning manning
+many many
+mar mar
+march march
+margin margin
+matter matters
+max max
+may may
+mdd mdd
+mean means
+meaningful meaningful
+means means
+meeting meeting
+member members
+memory memory
+memusage memusage
+menu menu
+methodologies methodologies
+might might
+minerva minerva
+mini mini
+missing missing
+mobile mobile
+mode mode
+model model modeling models
+modeling modeling
+module module
+more more
+most most
+move move
+msf msf
+much much
+must must
+name name named names naming
+narrative narrative
+natural natural
+naturally naturally
+nature nature
+navbar navbar
+navigation navigation
+nearby nearby
+nederlands nederlands
+need needing
+neutral neutral
+new new
+newpp newpp
+night night
+node node
+none none
+normal normal
+norsk norsk
+not n't not
+notheme notheme
+november november
+nowrap nowrap
+null null
+number number
+object object
+occur occurs
+october october
+often often
+omg omg
+one one
+only only
+operate operates
+operation operation
+order order
+organization organization
+orient oriented
+origin origin
+original original
+osherove osherove
+other other
+out out
+outcome outcome outcomes
+outcomes outcomes
+outer outer
+outline outline outlines
+output output
+outside outside
+over over
+overview overview
+owner owner
+padding padding
+page page pages
+pagelanguagecode pagelanguagecode
+pagelanguagedir pagelanguagedir
+pages pages
+pagetype pagetype
+pagevariantfallback pagevariantfallbacks
+paradigms paradigms
+parameter parameter parameters
+parse parse parsed parsing
+parser parser
+part part parts
+participant participants
+patroltoken patroltoken
+pcache pcache
+pdf pdf
+per per
+period period
+perl perl
+permanent permanent
+person people person
+personal personal
+personnel personnel
+perspective perspective
+philosophy philosophies
+php php
+phrase phrased
+pin pinned
+pinnable pinnable
+place place
+placeholder placeholder
+platform platform
+platformversion platformversion
+pmbok pmbok
+point point
+policy policy
+polski polski
+pop pop
+portal portal
+possibility possibilities
+post post
+postexpandincludesize postexpandincludesize
+potted potted
+ppvisitednode ppvisitednodes
+practice practice
+practices practices
+precise precise
+precondition precondition
+pref pref
+prefer prefers
+preprocessor preprocessor
+pretitle pretitle
+principle principle principles
+principles principles
+print print
+printable printable
+privacy privacy
+problem problem
+process process processed processes
+product product
+profiler profiler
+progressive progressive
+project project projects
+projects projects
+proponent proponents
+prototype prototyping
+provide provide
+psp psp
+publications publications
+publisher publisher
+purpose purposes
+push push
+python python
+quality quality
+question question
+quite quite
+quote quotes
+rad rad
+random random
+ranjith ranjith
+rather rather
+read read reading reads
+readable readable
+ready ready
+real real
+reason reason reasoned reasons
+recent recent
+recursion recursion
+reduce reduced
+refer referred
+reference reference references
+references references
+refinement refinement
+reflist reflist
+regard regarded
+regexp regexp
+register registered
+registration registration
+relate related relates
+related related
+relatively relatively
+release release
+render rendering
+repeat repeat
+replacement replacement
+report report
+representative representatives
+require require requires
+requirement requirement requirements
+responsive responsive
+result result
+rethink rethinking
+retrieve retrieved
+return return returns
+revision revision
+rgba rgba
+right right
+risk risk
+rlconf rlconf
+rlpagemodules rlpagemodules
+rlq rlq
+rlstate rlstate
+robert robert
+role role roles
+roll roll
+roman roman
+ronald ronald
+roy roy
+rspec rspec
+ruby ruby
+ruiter ruiter
+rup rup
+safe safe
+same same
+samea sameas
+saved saved
+say say
+sbe sbe
+scale scale
+scenario scenario scenarios
+scheme scheme
+science science
+scott scott
+screen screen
+scribunto scribunto
+scrum scrum
+search search
+searchinput searchinput
+second seconds
+section section
+see see seen
+selflink selflink
+semat semat
+semi semi
+sentence sentences
+separate separate
+september september
+series series
+serve serve
+set set
+several several
+share shared
+sharealike sharealike
+short short
+shorten shortened
+should should
+show show
+sidebar sidebar
+simple simple
+simplify simplifying
+site site
+size size
+skillsmatterr skillsmatterr
+skin skin
+slim slim
+small small
+smart smart
+software software
+solid solid
+solis solis
+solution solution
+solutionsiq solutionsiq
+some some
+sort sort
+source sources
+space space
+spacing spacing
+span span
+spec spec
+special special
+specialized specialized
+specific specific
+specifically specifically
+specification specification specifications
+specify specified specify specifying
+spiral spiral
+split split
+squish squish
+stack stack
+stakeholder stakeholder stakeholders
+stakeholders stakeholders
+stand stand
+standard standard standards
+standardized standardized
+standards standards
+start start starting
+statement statement statements
+statistics statistics
+status status
+step step
+sticky sticky
+storm storming
+story stories story
+structure structure structured
+study study
+stuff stuff
+style style
+subcategory subcategory
+subgroup subgroup
+subscription subscription
+subsection subsection
+subtle subtle
+successfully successfully
+such such
+suggest suggest suggesting suggests
+suggestion suggestion
+support support supporting
+sure sure
+swebok swebok
+system system
+table table tables
+tackle tackling
+tag tags
+tagline tagline
+take take
+talk talk
+tammo tammo
+target target
+tcl tcl
+tdd tdd
+team team teams
+technical technical
+technique techniques
+template template
+templateargumentsize templateargumentsize
+tend tend
+term term terms
+test test tested testing tests
+tester tester testers
+testing testing
+text text
+than than
+tharayil tharayil
+that those
+theme theme
+then then
+therefore therefore
+they they
+this these
+three three
+through through
+time time
+timeless timeless
+timestamp timestamp
+timeusage timeusage
+timingprofile timingprofile
+title title
+toc toc
+toggle toggle
+tool tool tooling tools
+tooling tooling
+top top
+topic topic
+total total
+trademark trademark
+transclusion transclusion
+transform transformed
+transientcontent transientcontent
+trigger trigger triggered triggers
+true true
+tsp tsp
+ttl ttl
+two two
+type type
+ubiquitous ubiquitous
+uml uml
+under under
+understand understand understands understood
+understanding understanding
+unit unit units
+unpinned unpinned
+unstrip unstrip
+upload upload
+upper upper
+url url
+usage usage
+use use used uses using
+user user
+usually usually
+utc utc
+vague vague
+value value
+van van
+var var
+variant variant
+vary varies vary
+vector vector
+veen veen
+vehicle vehicle
+venture venture
+verb verb
+version version
+versus versus
+view view
+visible visible
+visit visited
+walk walk
+walltime walltime
+wang wang
+want want
+watchlist watchlist
+watchtoken watchtoken
+waterfall waterfall
+way way ways
+weight weight
+wesley wesley
+wgaction wgaction
+wgarticleid wgarticleid
+wgbackendresponsetime wgbackendresponsetime
+wgbreakframe wgbreakframes
+wgcanonicalnamespace wgcanonicalnamespace
+wgcanonicalspecialpagename wgcanonicalspecialpagename
+wgcategory wgcategories
+wgcheckuserclienthintsheadersjsapi wgcheckuserclienthintsheadersjsapi
+wgcitereferencepreviewsactive wgcitereferencepreviewsactive
+wgcurrevisionid wgcurrevisionid
+wgdefaultdateformat wgdefaultdateformat
+wgdigittransformtable wgdigittransformtable
+wgeditsubmitbuttonlabelpublish wgeditsubmitbuttonlabelpublish
+wgflaggedrevsparams wgflaggedrevsparams
+wggelevelingupenabledforuser wggelevelingupenabledforuser
+wggestructuredtaskrejectionreasontextinputenable wggestructuredtaskrejectionreasontextinputenabled
+wggetopicsmatchmodeenable wggetopicsmatchmodeenabled
+wghostname wghostname
+wgisarticle wgisarticle
+wgisprobablyeditable wgisprobablyeditable
+wgisredirect wgisredirect
+wgmediaviewerenabledbydefault wgmediaviewerenabledbydefault
+wgmediavieweronclick wgmediavieweronclick
+wgmfdisplaywikibasedescription wgmfdisplaywikibasedescriptions
+wgmonthname wgmonthnames
+wgnamespacenumber wgnamespacenumber
+wgnoticeproject wgnoticeproject
+wgpagecontentlanguage wgpagecontentlanguage
+wgpagecontentmodel wgpagecontentmodel
+wgpagename wgpagename
+wgpageparsereport wgpageparsereport
+wgpageviewlanguage wgpageviewlanguage
+wgpopupsflag wgpopupsflags
+wgrelevantarticleid wgrelevantarticleid
+wgrelevantpageisprobablyeditable wgrelevantpageisprobablyeditable
+wgrelevantpagename wgrelevantpagename
+wgrequestid wgrequestid
+wgrestrictionedit wgrestrictionedit
+wgrestrictionmove wgrestrictionmove
+wgrevisionid wgrevisionid
+wgseparatortransformtable wgseparatortransformtable
+wgtitle wgtitle
+wgulsiscompactlinksenable wgulsiscompactlinksenabled
+wgulsislanguageselectorempty wgulsislanguageselectorempty
+wgulsposition wgulsposition
+wgusergroup wgusergroups
+wgusername wgusername
+wgvisualeditor wgvisualeditor
+wgwikibaseitemid wgwikibaseitemid
+wgwmepagelength wgwmepagelength
+wgwmeschemaeditattemptstepoversample wgwmeschemaeditattemptstepoversample
+what what
+whatever whatever
+when when
+where where
+white white
+who who
+whole whole
+why why
+width width
+wikibase wikibase
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wikitext wikitext
+will will
+within within
+word word
+wordpress wordpress
+work work
+workshop workshop
+wrap wrap
+write writing written
+xiaofeng xiaofeng
+xkxwp xkxwp
+year years
+yield yielding
+you you
