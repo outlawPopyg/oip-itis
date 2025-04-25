@@ -1,0 +1,140 @@
+account account
+action actions
+activity activity
+add add
+additional additional
+agree agree
+appearance appearance
+apply apply
+april april
+article article articles
+assessment assessment
+associate associated
+attribution attribution
+available available
+bar bar
+category categories category
+change change changes
+cite cite
+code code
+commons commons
+community community
+conduct conduct
+contact contact
+content content contents
+contribute contribute
+contribution contributions
+cookie cookie
+create create
+creative creative
+current current
+description description
+determine determine
+developer developers
+different different
+directly directly
+disambiguation disambiguation
+disclaimer disclaimers
+donate donate
+download download
+edit edit edited
+editor editors
+encyclopedia encyclopedia
+english english
+event events
+exam exam
+export export
+file file
+foundation foundation
+free free
+general general
+help help
+hide hidden hide
+history history
+information information
+intend intended
+internal internal
+italiano italiano
+item item
+jump jump
+language languages
+lead led
+learn learn
+legal legal
+license license
+life life
+link link links
+list lists
+log log logged
+main main
+menu menu
+mobile mobile
+navigation navigation
+non non
+organization organization
+page page pages
+particular particular
+pdf pdf
+perform perform performs
+performance performance
+permanent permanent
+personal personal
+physical physical
+point point
+policy policy
+polski polski
+portal portal
+print print
+printable printable
+privacy privacy
+procedure procedure
+profit profit
+project projects
+qr qr
+random random
+read read
+real real
+recent recent
+refer refer referred
+register registered
+relate related
+require requiring
+retrieve retrieved
+search search
+section section
+sharealike sharealike
+short short
+shorten shortened
+sidebar sidebar
+simulate simulating
+site site
+software software
+special special
+statement statement
+statistic statistics
+subject subject
+system system
+table table
+talk talk
+task task
+term term terms
+test test
+testing testing
+text text
+title title
+toggle toggle
+tool tools
+topic topic topics
+trademark trademark
+type type
+upload upload
+url url
+use use
+utc utc
+version version
+view view
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wish wish
+workload workload

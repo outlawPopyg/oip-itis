@@ -1,0 +1,737 @@
+abiquo abiquo
+absolute absolute
+abstraction abstraction
+accelerate accelerate
+access access
+accessible accessible
+accord according
+account account
+acm acm
+action actions
+add add added
+addition addition
+additional additional
+additionally additionally
+address address addressed addressing
+adhere adhering
+adopt adopted adopting
+advancement advancements
+agnostic agnostic
+agree agree
+ai ai
+air air
+alexey alexey
+alibaba alibaba
+allow allow
+alternative alternative
+amazon amazon
+ambiguous ambiguous
+analysis analyses analysis
+analyze analyzing
+anderson anderson
+anomaly anomaly
+anti anti
+antipattern antipattern antipatterns
+api api
+apis apis
+app app
+appearance appearance
+appliance appliance
+application application applications
+apply applies apply
+approach approach
+appscale appscale
+april april
+architect architect
+architectural architectural
+architecture architecture architectures
+article article articles
+arxiv arxiv
+aske aske
+aspect aspects
+associate associated
+association association
+asynchronously asynchronously
+ataollah ataollah
+atmos atmos
+attack attack attacks
+attribution attribution
+austin austin
+author authors
+authority authority
+available available
+aw aws
+azure azure
+b b
+baarzi baarzi
+baas baas
+backend backend
+backward backward
+barrett barrett
+batch batches
+bcs bcs
+ben ben
+benefit benefits
+benomar benomar
+berkeley berkeley
+blur blurred
+bound bounded
+boundary boundaries
+box box
+break break breaking
+brisal brisals
+broad broad
+build building
+bulk bulk
+business business
+c c
+call calls
+capability capability
+capable capable
+carlee carlee
+category categories category
+cause cause
+center centers
+centralize centralized
+certain certain
+chain chaining chains
+challenge challenges
+change changed changes
+changer changer
+charter chartered
+chenggang chenggang
+choreography choreography
+cite cite
+citrix citrix
+class classes
+clear clear clearer
+close closed
+cloud cloud
+cloudbolt cloudbolt
+cloudstack cloudstack
+cluster clusters
+cocaine cocaine
+code code
+cohesion cohesion
+cohesive cohesive
+collect collected
+combine combining
+come come
+commitment commitments
+commons commons
+communication communication
+community community
+companion companion
+compatibility compatibility
+compensate compensating
+complex complex
+complexity complexity
+component component components
+computation computation
+computing computing
+concept concept concepts
+conduct conduct
+conference conference
+confidence confidence
+configure configure
+consider considering
+contact contact
+content content contents
+context context contexts
+continue continue continues
+contract contract
+contrast contrast
+contribute contribute contributing
+contribution contributions
+cookie cookie
+cost cost
+cpu cpu
+create create
+creatio creatio
+creation creation
+creative creative
+cs cs
+cui cui
+current current
+curve curve
+customer customer customers
+d d
+daniel daniel
+database database databases
+datadog datadog
+date date
+datum data
+david david
+de de
+debug debugging
+default default
+define define defined defining
+definition definition definitions
+deft deft
+deliver deliver
+denial denial
+dependency dependency
+deploy deploy
+deployment deployment
+deprecation deprecation
+describe described
+description description
+design design
+desktop desktop
+detection detection
+develop develop
+developer developers
+development development
+devsecop devsecops
+dew dew
+difference differences
+different different
+difficult difficult
+difficulty difficulty
+digital digital
+digitalocean digitalocean
+directly directly
+disclaimer disclaimers
+distinction distinction
+distinguish distinguish
+distribute distributed
+documentation documentation
+doi doi
+domain domain
+donate donate
+download download
+drive drive driven
+dropbox dropbox
+e e
+ecosystem ecosystem
+ed ed
+edge edge
+edit edit edited
+edition edition
+editor editors
+eesti eesti
+effect effect
+effective effective
+effectiveness effectiveness
+elasticity elasticity
+element elements
+elevator elevator
+eliminate eliminate
+emc emc
+emerge emerging
+emphasis emphasis
+emphasize emphasize emphasized
+employ employed
+encyclopedia encyclopedia
+enda enda
+endpoint endpoints
+engine engine
+engineer engineers
+engineering engineering
+english english
+enterprise enterprise
+environment environment environments
+ephemeral ephemeral
+eric eric
+error errors
+eucalyptus eucalyptus
+event event events
+everybody everybody
+evolve evolve evolved
+exacerbate exacerbated
+excessive excessive
+excessively excessively
+execute execute
+execution execution
+exhibit exhibiting
+explicit explicit
+export export
+faas faas
+facilitate facilitate
+faleiro faleiro
+fall fall
+fallacy fallacies
+fast faster
+fatahi fatahi
+february february
+file file
+finer finer
+flow flows
+flywheel flywheel
+focus focusing
+follow following
+form form
+formal formal
+formation formation
+forward forward
+foundation foundation
+foundry foundry
+fowler fowler
+fragment fragmented
+framework frameworks
+frank frank
+frazer frazer
+free free
+fujitsu fujitsu
+function function functions
+functionless functionless
+fundamental fundamentals
+future future
+gain gain
+game game
+gateway gateways
+ge ge
+general general
+georganta georgantas
+george george
+glavin glavin
+gonzalez gonzalez
+google google
+grain grain grained
+granularity granularity
+greenbutton greenbutton
+greenqloud greenqloud
+group group groups
+guarantee guarantees
+guide guide
+haidong haidong
+hard hard
+hardware hardware
+have having
+helion helion
+hellerstein hellerstein
+help help helps
+heroku heroku
+hide hidden hide
+high high
+highlight highlights
+highly highly
+history history
+hp hp
+hpc hpc
+http http
+iam iam
+ibm ibm
+icpp icpp
+ideal ideal
+identity identity
+iec iec
+ieee ieee
+iland iland
+implement implement
+implementation implementation
+importantly importantly
+impose imposed
+impossible impossible
+improve improve improving
+include includes including
+increase increase increased
+increasingly increasingly
+individual individual
+inefficiency inefficiencies
+information information
+infrastructure infrastructure
+inktank inktank
+insecure insecure
+instead instead
+institute institute
+instrument instrumenting
+integration integration integrations
+inter inter
+interact interact
+interconnect interconnected
+interface interfaces
+internal internal
+international international
+internet internet
+interpretation interpretations
+introduce introduced
+invoke invoke
+involve involve
+isbn isbn
+iso iso
+issn issn
+issue issue
+italiano italiano
+item item
+jamieson jamieson
+jason jason
+jelastic jelastic
+joe joe
+johann johann
+jona jonas
+jose jose
+joseph joseph
+journal journal
+joyent joyent
+july july
+jump jump
+june june
+katzer katzer
+keep kept
+kehoe kehoe
+kelly kelly
+kesidi kesidis
+lambda lambda
+land landing
+language languages
+lark lark
+latency latency
+lead leading
+learn learn learning
+level level
+leverage leveraging
+libguestfs libguestfs
+libvirt libvirt
+license license
+like like
+limit limits
+limitation limitations
+linear linear
+link link links
+linode linode
+lock lock locked
+log log logged logging
+logic logic
+long long
+loom looming
+lose losing
+lunacloud lunacloud
+machine machine
+machinery machinery
+main main
+maint maint
+maintain maintain maintaining
+maintenance maintenance
+make makes making
+man manning
+manage manage managed
+management management
+manager manager
+march march
+mark mark
+martin martin
+match matches
+maximize maximize
+maximum maximum
+medium media
+memory memory
+menu menu
+merit merits
+method method methods
+metric metrics
+microservice microservice microservices
+microsoft microsoft
+migration migration
+mike mike
+mindset mindset
+mindsphere mindsphere
+mirantis mirantis
+misnomer misnomer
+miss missing
+mitigate mitigating
+mobile mobile
+model model models
+modern modern
+modularization modularization
+mohammad mohammad
+monitor monitoring
+monolith monolith
+multi multi
+multiple multiple
+native native
+natively natively
+nature nature
+navigation navigation
+necessary necessary
+netlify netlify
+network network networking
+new new
+nextcloud nextcloud
+nikolaos nikolaos
+nimbula nimbula
+nimbus nimbus
+non non
+note noted
+november november
+ny ny
+observability observability
+observe observed
+occur occur
+offering offering
+office office
+ondemand ondemand
+onedrive onedrive
+openio openio
+opennebula opennebula
+openqrm openqrm
+openshift openshift
+openstack openstack
+opentelemetry opentelemetry
+operation operations
+operational operational
+opinionate opinionated
+optimal optimal
+optimization optimization
+optional optional
+oracle oracle
+orchestration orchestration
+organization organization organizations
+organize organize
+orionvm orionvm
+os os
+outsystem outsystems
+outweigh outweigh
+overhead overhead
+overview overview
+ovirt ovirt
+owasp owasp
+owncloud owncloud
+paas paas
+page page pages
+paradigm paradigms
+parallel parallel
+parallelizable parallelizable
+part parts
+particularly particularly
+party party
+pattern pattern patterns
+pay pay
+pdf pdf
+performance performance
+periodical periodical
+permanent permanent
+persist persist
+personal personal
+perspective perspective
+pfandzelter pfandzelter
+pinball pinball
+pipeline pipeline
+pitfall pitfalls
+platespin platespin
+platform platform platforms
+policy policies policy
+portal portal
+possible possible
+power power powered
+pp pp
+practice practice practices
+predictable predictable
+predix predix
+present present presents
+preserve preserve
+prevail prevail
+prevention prevention
+principle principles
+print print
+printable printable
+privacy privacy
+private private
+proceeding proceedings
+process processes processing
+profit profit
+programming programming
+project project projects
+promise promising
+prone prone
+proprietary proprietary
+proton proton
+provide provided providing
+provider provider providers
+provision provision provisioned
+public public
+publish published
+pull pulled pulling
+push push
+pythonanywhere pythonanywhere
+qr qr
+rackspace rackspace
+radar radar
+random random
+ray ray
+rd rds
+reach reach
+read read reading
+recent recent
+redefine redefining
+reduce reduce reduced
+refer referred refers
+reference references
+regardless regardless
+register registered
+relate related
+relationship relationship
+report reporting
+repository repositories
+represent represents
+require require requires requiring
+resource resource resources
+restriction restrictions
+result resulting
+retrieve retrieved retrieving
+richard richards
+rightscale rightscale
+rigid rigid
+risk risk risks
+roberts roberts
+role role
+root root
+run run
+runtime runtime
+safe safe
+salesforce salesforce
+sand sand
+sap sap
+scalability scalability
+scale scale
+scalr scalr
+schlei schleier
+science science
+scientific scientific
+screekanti screekanti
+seafile seafile
+search search
+security security
+sense sense
+separate separate
+september september
+server server servers
+serverless serverless
+service service services
+shahrad shahrad
+share shared
+sharealike sharealike
+sheen sheen
+shift shift shifts
+short short
+shorten shortened
+sidebar sidebar
+simple simple
+simplify simplified
+simultaneously simultaneously
+site site
+small small
+smith smith
+socc socc
+software software
+solution solutions
+spaghetti spaghetti
+special special
+specific specific
+spectrum spectrum
+spin spin
+splunk splunk
+springer springer
+stability stability
+stack stacks
+stakeholder stakeholders
+standard standard
+start starting
+statement statement
+statistic statistics
+steadily steadily
+steeper steeper
+step step steps
+storage storage
+strategy strategies
+strict strict
+strictly strictly
+structure structured
+subsection subsection
+suitability suitability
+suomi suomi
+support support supporting
+sustain sustained
+swiss swiss
+symposium symposium
+system system systems
+t t
+table table
+talk talk talking
+team team teams
+technically technically
+technology technologies technology
+term terms
+testing testing
+text text
+thorough thorough
+thoughtwork thoughtworks
+threat threat
+time time times
+timeliness timeliness
+tobia tobias
+toggle toggle
+tool tools
+topic topic
+trace tracing
+track track
+trade trade
+trademark trademark
+traditional traditional
+transaction transactions
+trigger trigger triggers
+tumanov tumanov
+type types
+typical typical
+typically typically
+uc uc
+ucc ucc
+underlie underlying
+unique unique
+upload upload
+url url
+usa usa
+usage usage
+use use
+utc utc
+utility utility
+v v
+vague vague
+value value
+variation variations
+varied varied
+vary vary
+vcloud vcloud
+vdc vdc
+vendor vendor vendors
+vercel vercel
+version version versions
+versione versioning
+versus versus
+viability viability
+view view
+vikram vikram
+virtual virtual
+virtualization virtualization
+virtualize virtualized
+virtually virtually
+visibility visibility
+vol vol
+vulnerable vulnerable
+wakame wakame
+wallet wallet
+wavemaker wavemaker
+way way
+web web
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wong wong
+work work
+workday workday
+workflow workflow workflows
+workload workload workloads
+workshop workshops
+workspace workspace
+wu wu
+x x
+xinghui xinghui
+yan yan
+yard yard
+year year
+york york
+zadara zadara
+zakaria zakaria
+zhao zhao
+zoho zoho
+zone zones

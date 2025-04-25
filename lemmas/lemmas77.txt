@@ -1,0 +1,564 @@
+aap aap
+able able
+accessible accessible
+account account
+achieve achieving
+acquire acquire acquired
+acquisition acquisitions
+action actions
+add add
+addition addition
+additional additional
+additionally additionally
+address address
+administration administration
+agent agents
+agentless agentless
+ago ago
+agree agree
+allow allowed allows
+alternative alternative
+announce announces
+annual annual
+ansible ansible
+ansiblef ansiblefest
+ansiblework ansibleworks
+api api
+appearance appearance
+application application
+apply apply
+april april
+architecture architecture
+archive archived
+article article articles
+ask asked
+assign assigned
+associate associates
+atlanta atlanta
+attribution attribution
+august august
+austin austin
+author author authors
+authority authority
+automation automation
+available available
+awx awx
+b b
+bare bare
+base based
+bash bash
+benefit benefits
+bernardo bernardo
+beta beta
+bloomberg bloomberg
+bnf bnf
+bob bob
+bosanski bosanski
+boston boston
+brooklyn brooklyn
+bsd bsd
+build build
+buy buying
+c c
+california california
+call calls
+carefully carefully
+case case
+castaway castaway
+category categories
+center centers
+cento centos
+ceph ceph
+certification certification
+cfengine cfengine
+change changes
+chef chef
+chicago chicago
+citation citation
+cite cite
+cloud cloud
+cluster cluster
+co co
+cobbler cobbler
+code code
+coin coined
+colorado colorado
+commercial commercial
+commercially commercially
+commons commons
+communicate communicates
+communication communication
+community community
+companion companion
+company company
+comparison comparison
+component components
+compose composed
+computer computers
+computing computing
+concept concepts
+conduct conduct
+conference conference
+configurable configurable
+configuration configuration
+configure configure configuring
+conn conn
+connection connections
+consistent consistent
+consulting consulting
+consume consume
+contact contact
+content content contents
+continuous continuous
+contrast contrast
+contribute contribute
+contribution contributions
+contributor contributors
+control control controlled controlling
+controller controller
+cookie cookie
+cormier cormier
+create create
+creative creative
+critical critical
+current current
+custom custom
+cygnus cygnus
+d d
+daemon daemons
+database databases
+date date
+datum data
+deb deb
+debian debian
+december december
+declarative declarative
+define defined
+defunct defunct
+dehaan dehaan
+denver denver
+dependencie dependencies
+dependent dependent
+deploy deploy
+deployment deployment
+depth depth
+derivative derivatives
+derive derived
+description description
+descriptive descriptive
+design design designed
+detail details
+deutsch deutsch
+develop developed
+developer developer developers
+device devices
+devop devops
+different different
+disambiguation disambiguation
+disaster disaster
+disclaimer disclaimers
+distribution distribution
+documentation documentation
+donate donate
+download download
+downtime downtime
+duration duration
+dynamic dynamic
+dynamically dynamically
+e e
+early earlier
+easy easy
+edit edit edited
+editor editors
+effect effects
+enable enable enables
+encrypt encrypted encrypting
+encyclopedia encyclopedia
+engine engine
+english english
+ensure ensuring
+enterprise enterprise
+environment environment environments
+etc etc
+event events
+ewe ewing
+example example
+execution execution executions
+expert experts
+export export
+external external
+extra extra
+factual factual
+faq faq
+feb feb
+february february
+fedora fedora
+fictional fictional
+file file files
+format format formats formatted
+found founded
+foundation foundation
+framework framework
+france france
+francisco francisco
+free free
+freeotp freeotp
+frequently frequently
+func func
+functionality functionality
+future future
+general general
+georgia georgia
+gerla gerla
+get getting
+github github
+gluster gluster
+gnu gnu
+goal goals
+google google
+graham graham
+greenwood greenwood
+group group grouped groups
+guide guide guiding
+guin guin
+handler handler
+hat hat
+help help helps
+hide hidden hide
+history history
+host host hosts
+hostname hostname hostnames
+iac iac
+ibm ibm
+idempotency idempotency
+idempotent idempotent
+illinois illinois
+impose impose
+improve improve
+inc inc
+include include included includes including
+independent independent
+index index
+information information
+infrastructure infrastructure
+ini ini
+initial initial
+inktank inktank
+input input
+inside inside
+instal installed installing
+installation installation
+instantaneous instantaneous
+instead instead
+intend intended
+interface interface
+international international
+internet internet
+interview interview
+intro intro
+inventory inventory
+ip ip
+isbn isbn
+italiano italiano
+item item
+j j
+january january
+jim jim
+jinja jinja
+jordan jordan
+json json
+july july
+jump jump
+language language languages
+later later
+le le
+leader leader
+learn learn learning
+license license
+like like
+link link links
+linux linux
+list list lists
+llc llc
+locate located
+location location
+log log logged
+london london
+m m
+machine machine machines
+macos macos
+magyar magyar
+main main
+maint maint
+major major
+manage manage managed managing
+management management
+manager manager
+map maps
+marc marc
+march march
+massachusetts massachusetts
+master master
+match matches
+matthew matthew
+maughan maughan
+maughansem maughansem
+mean means
+menu menu
+merger mergers
+mesh mesh
+message message
+metal metal
+metamatrix metamatrix
+michael michael
+microsoft microsoft
+mike mike
+minimal minimal
+mobile mobile
+module module modules
+mugshot mugshot
+multiple multiple
+murphy murphy
+mykola mykola
+name named names
+national national
+native native
+nature nature
+navigation navigation
+near near
+need needed needing
+network network
+new new
+node node nodes
+non non
+normally normally
+norsk norsk
+novel novel
+november november
+novet novet
+oclc oclc
+october october
+official official
+open open
+openshift openshift
+openssh openssh
+opensuse opensuse
+operate operating
+operation operation operations
+oracle oracle
+orchestrate orchestrate orchestrates
+orchestration orchestration
+organization organization
+original original
+originally originally
+oss oss
+outage outage
+output output
+overview overview
+own owned
+package package packages
+page page pages
+pandemic pandemic
+paul paul
+pdf pdf
+people people
+perl perl
+permanent permanent
+personal personal
+pip pip
+place place
+plain plain
+platform platform
+playbook playbook playbooks
+policy policy
+polski polski
+popular popular
+portal portal
+portion portions
+possible possible
+post post
+powershell powershell
+press press
+prevent prevent
+primary primary
+print print
+printable printable
+privacy privacy
+private private
+process process
+product product products
+profit profit
+program program programmed
+project project projects
+protocol protocol
+provision provisioning
+public public
+pull pull
+puppet puppet
+python python
+qr qr
+question questions
+qumranet qumranet
+random random
+range range
+read read
+reader readers
+recent recent
+recovery recovery
+red red
+reddit reddit
+redditor redditors
+refer refers
+reference references
+register registered
+relate related
+release release released
+reliable reliable
+rely relying
+remote remote remoting
+remove remove removing
+repeat repeated
+repository repository
+represent represented
+require require required requires
+research research
+resource resources
+rest rest
+retrieve retrieved
+rocannon rocannon
+role role roles
+roll rolling
+rpm rpm
+ruby ruby
+run run running runs
+salt salt
+san san
+satellite satellite
+save save
+scale scale
+scientific scientific
+script script scripting
+search search
+secure secure
+select selecting
+semaphore semaphore
+sensitive sensitive
+sep sep
+september september
+server server
+service service services
+set set
+sharealike sharealike
+shell shell
+short short
+shorten shortened
+sidebar sidebar
+simple simple
+simplejson simplejson
+single single
+site site
+skillset skillsets
+software software
+solution solutions
+source source sourced sources
+spacewalk spacewalk
+special special
+specifie specifies
+specify specified
+sponsor sponsor
+ssh ssh
+stable stable
+staff staff
+standalone standalone
+standard standard
+start started
+state state
+statement statement statements
+statistic statistics
+storage storage
+store store stored
+subsection subsection
+subsystem subsystem
+suite suite
+summit summit
+suomi suomi
+support support supported supports
+susan susan
+suse suse
+system system systems
+szulik szulik
+t t
+table table
+talk talk
+target target
+task task tasks
+team team
+technical technical
+template templates
+temporarily temporarily
+temporary temporary
+term term termed terms
+texas texas
+text text
+tgz tgz
+tiemann tiemann
+time times
+timothy timothy
+toggle toggle
+tool tool tools
+tooling tooling
+topic topic
+tower tower
+trademark trademark
+txz txz
+type type
+ubuntu ubuntu
+uk uk
+ulianytskyi ulianytskyi
+understand understand
+understandable understandable
+unexpected unexpected
+unify unified
+unix unix
+unsourced unsourced
+update updates
+upload upload
+upstream upstream
+url url
+ursula ursula
+use use uses
+user users
+utc utc
+v v
+var var
+vault vault
+venturebeat venturebeat
+verification verification
+version version
+viaf viaf
+view view
+virtual virtual
+virtualization virtualization
+web web
+webserver webservers
+website website
+westport westport
+whitehurst whitehurst
+wide wide
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wildfly wildfly
+window windows
+work working works
+world world
+write write written
+writer writer
+ws ws
+www www
+xz xz
+yaml yaml
+year year years
+york york
+young young
+ziouani ziouani

@@ -1,0 +1,419 @@
+academic academic
+access access
+account account accounts
+accurev accurev
+acquire acquired
+acquisition acquisitions
+action actions
+add add added adds
+additional additional
+ago ago
+agree agree
+allow allow allows
+allura allura
+alm alm
+alpha alpha
+apache apache
+apis apis
+appearance appearance
+application applications
+apply apply
+april april
+arch arch
+archive archived
+article article articles
+assembla assembla
+atlassian atlassian
+attribution attribution
+august august
+authentication authentication
+automatically automatically
+available available
+axosoft axosoft
+azure azure
+b b
+bahasa bahasa
+base based
+baseline baseline
+basic basic
+bazaar bazaar
+beta beta
+bit bit
+bitbucket bitbucket
+bitkeeper bitkeeper
+bloodhound bloodhound
+branch branch
+breezy breezy
+bucket bucket
+bug bug
+bugzilla bugzilla
+build build building built
+c c
+category categories category
+certain certain
+chan chan
+change change changes
+changeset changeset
+charity charities
+check checks
+chinese chinese
+cite cite
+clearcase clearcase
+client client
+cloud cloud
+cm cm
+cmvc cmvc
+co co
+code code
+codeberg codeberg
+codeplex codeplex
+collaborative collaborative
+combination combination
+comment comments
+commercial commercial
+commit commit
+commons commons
+community community
+company company
+comparison comparison
+compression compression
+computer computer
+computing computing
+concept concepts
+concert concert
+conduct conduct
+confuse confused
+contact contact
+content content contents
+continuous continuous
+contribute contribute
+contribution contributions
+control control controlling
+controversially controversially
+cookie cookie
+create create created
+creative creative
+criterion criteria
+current current
+customer customers
+cvs cvs
+cvsnt cvsnt
+darcs darcs
+date date dates
+dcvs dcvs
+dead dead
+debbug debbugs
+december december
+delivery delivery
+delta delta
+denise denise
+deploy deploy
+description description
+deutsch deutsch
+developer developer developers
+development development
+devop devops
+diff diff diffs
+dimension dimensions
+disclaimer disclaimers
+discontinue discontinued
+distribute distributed
+django django
+dmy dmy
+documentation documentation
+domain domain
+donate donate
+download download
+drop dropped
+dsee dsee
+e e
+edit edit edited
+editor editors
+enable enable
+encyclopedia encyclopedia
+end end
+english english
+enterprise enterprise
+event events
+export export
+external external
+facility facilities
+factor factor
+faq faq
+feature features
+february february
+file file files
+follow following
+fork fork
+format format formats
+fossil fossil
+found founded
+foundation foundation
+framework framework
+free free
+french french
+gate gated
+general general
+german german
+git git
+gitea gitea
+github github
+gitlab gitlab
+gnat gnats
+gnu gnu
+government government
+governmental governmental
+helix helix
+help help
+hide hidden hide
+hindi hindi
+history history
+host hosted hosting
+include including
+independent independent
+indicate indicate
+indonesia indonesia
+infoq infoq
+information information
+initial initial
+integration integration integrations
+integrity integrity
+interface interface
+interleave interleaved
+introduce introduces
+ip ip
+issue issue
+italiano italiano
+italic italics
+item item
+itwire itwire
+japanese japanese
+jargon jargon
+java java
+jenna jenna
+jesper jesper
+jira jira
+july july
+jump jump
+june june
+know known
+korean korean
+language language languages
+large large
+launch launched
+launchpad launchpad
+learn learn
+lfs lfs
+librarian librarian
+license license licensed licensing
+life life
+like like
+link link links
+list list
+local local
+log log logged
+logo logo
+long longer
+main main
+maintain maintained
+management management
+manager manager
+maniphest maniphest
+mantisbt mantisbt
+march march
+markdown markdown
+match matches
+maven maven
+meeting meeting
+menu menu
+mercurial mercurial
+merge merge merging
+merger mergers
+mirror mirroring
+mobile mobile
+monorepo monorepo
+monotone monotone
+nabble nabble
+name names
+navigation navigation
+noehr noehr
+non non
+november november
+number number
+offer offers
+official official
+on ons
+online online
+op op
+open open
+openid openid
+operate operating
+operation operations
+optional optional
+organization organization organizations
+original original
+osdn osdn
+own owned
+owner owner
+page page pages
+panvalet panvalet
+party party
+pdf pdf
+perforce perforce
+permanent permanent
+personal personal
+pipeline pipelines
+pitcher pitcher
+plan planned plans
+plastic plastic
+platform platform
+policy policy
+political political
+polski polski
+portal portal
+portuguese portuguese
+premise premises
+previously previously
+price pricing
+print print
+printable printable
+privacy privacy
+private private
+product product products
+profit profit
+project project projects
+proprietary proprietary
+provide provides
+publish publishing
+pull pull
+pvcs pvcs
+python python
+qr qr
+qvcs qvcs
+random random
+rcs rcs
+read read
+readme readme
+rebrand rebrand
+recent recent
+redmine redmine
+reference references
+register registered
+registration registration
+relate related
+release release
+religious religious
+remove removed
+rename renamed
+render rendered
+repository repositories repository
+request request requests
+require require required
+rest rest
+retrieve retrieved
+review review reviewing
+revision revision
+roundup roundup
+run running
+russian russian
+saas saas
+savannah savannah
+sccs sccs
+sclm sclm
+scm scm
+search search
+secular secular
+segment segments
+september september
+server server
+service service services
+share share
+sharealike sharealike
+short short
+shorten shortened
+sidebar sidebar
+similar similar
+simplify simplified
+site site sites
+smart smart
+snatch snatches
+snippet snippets
+software software
+source source
+sourceforge sourceforge
+sourcesafe sourcesafe
+spanish spanish
+special special
+stable stable
+starteam starteam
+startup startup
+stash stash
+statement statement
+static static
+statistic statistics
+status status
+step step
+storage storage
+story story
+subsection subsection
+subversion subversion
+success success
+suggest suggest
+sunsette sunsetting
+suomi suomi
+support support supports
+surround surround
+svenska svenska
+synergy synergy
+system system systems
+t t
+table table
+tag tag
+talk talk
+team team
+teamware teamware
+term term terms
+test test
+testtrack testtrack
+text text
+tfvc tfvc
+toggle toggle
+tool tools
+topic topic
+trac trac
+track tracking
+tracker tracker
+trademark trademark
+trunk trunk
+tuleap tuleap
+type type
+unlimited unlimited
+upload upload
+url url
+use use
+user users
+utc utc
+v v
+variety variety
+vault vault
+verification verification
+version version
+view view viewing
+visual visual
+way way
+web web
+website website websites
+whitelisting whitelisting
+wiki wiki
+wikibook wikibooks
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wikis wikis
+wikiversity wikiversity
+work work
+write write written
+www www
+year years
+yes yes
+youtrack youtrack

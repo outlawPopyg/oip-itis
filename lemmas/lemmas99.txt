@@ -1,0 +1,649 @@
+able able
+absence absence
+abstract abstract
+access access accessed
+account account
+accurate accurate
+achieve achieve
+action actions
+active active
+adapter adapter
+add add added
+addison addison
+additional additional
+addobserver addobserver
+address address addresses
+adi adi
+adr adr
+agree agree
+alexander alexander
+alive alive
+allude alludes
+aname aname
+anti anti
+aobserver aobserver
+appearance appearance
+append append
+applicable applicable
+apply apply
+approximate approximate
+arbitrary arbitrary
+architectural architectural
+arg arg
+args args
+arraylist arraylist
+arrive arrive arrives
+article article articles
+assume assuming
+asynchronous asynchronous
+asynchronously asynchronously
+attach attach attached
+attribution attribution
+auto auto
+automatically automatically
+available available
+avalue avalue
+aware aware
+balk balking
+bar bars
+base base based
+basic basic
+beck beck
+begin begin
+behavioral behavioral
+behavioural behavioural
+bind binding
+bindler bindler
+blackboard blackboard
+booch booch
+book book books
+bridge bridge
+broker broker
+builder builder
+business business
+c c
+call called calling calls
+case cases
+category categories category
+cause cause
+certain certain
+chain chain chaining
+challenge challenges
+change change changed changes
+charles charles
+check checked
+christopher christopher
+cite cite
+class class classes
+client client
+code code
+collaboration collaboration
+collection collections
+command command
+commons commons
+communicate communicated
+communication communication
+community communities community
+comparison comparison
+compile compile
+compiler compiler
+component component components
+composite composite
+concept concept
+concern concerns
+concreteobserver concreteobserver
+concurrency concurrency
+conditional conditional
+conduct conduct
+consider considered
+console console
+const const
+constructor constructor
+contact contact
+contain contains
+content content contents
+contribute contribute
+contribution contributions
+control control
+controller controller
+cookie cookie
+coplien coplien
+count count
+couple coupled couples coupling
+cout cout
+cpu cpu
+create create creating
+creational creational
+creative creative
+cs cs
+cunningham cunningham
+current current
+currentvalue currentvalue
+database databases
+datum data
+deal deal
+declaration declaration
+decorator decorator
+decouple decoupling
+dedicate dedicated
+def def
+define define defined defining
+delegate delegate
+delegation delegation
+delete delete
+delphi delphi
+dependency dependency
+dependent dependent dependents
+deprecate deprecated
+deregistration deregistration
+describe described
+description description
+design design
+desire desired
+destroy destroy
+destructor destructor
+detach detach
+detect detect
+deutsch deutsch
+developer developers
+development development
+diagram diagram
+difference differences
+different different
+difficult difficult
+directly directly
+disclaimer disclaimers
+dispersion dispersion
+dispose dispose
+distribute distributed
+documentation documentation
+donate donate
+door door
+double double
+douglas douglas
+download download
+drive driven
+e e
+early early
+easily easily
+easy easier
+ec ecs
+edit edit edited
+editor editors
+effect effect
+element elements
+emit emitted
+encyclopedia encyclopedia
+end end ended
+endl endl
+engineering engineering
+english english
+enter enter
+enterprise enterprise
+entity entity
+erich erich
+error error errors
+etc etc
+event event events
+eventsource eventsource
+example example
+exception exception
+execute execute
+exist exist
+expect expected
+experience experience
+explicit explicit
+export export
+external external
+extra extra
+facade facade
+factory factory
+file file
+filter filter
+finally finally
+fire fire
+flexibility flexibility
+flexible flexible
+flyweight flyweight
+fname fname
+fobserver fobservers
+follow following
+force forcing
+foreach foreach
+form form
+foundation foundation
+fowler fowler
+free free
+freeandnil freeandnil
+frequent frequent
+frequently frequently
+fun fun
+function function
+functional functional
+galego galego
+gamma gamma
+gang gang
+general general
+generation generation
+generic generics
+get got
+getstate getstate
+github github
+google google
+gpio gpio
+grady grady
+groovy groovy
+group group
+guarantee guaranteeing
+guard guarded
+handle handled handles handling
+handler handler
+hasnext hasnext
+hasnextline hasnextline
+helm helm
+help help
+hide hidden hide
+hillside hillside
+hindrance hindrance
+history history
+hold holds
+http http
+husband husband
+icollection icollection
+identity identity
+idisposable idisposable
+implement implement implemented implementing
+implementation implementation implementations
+implicit implicit
+import import
+include include
+independent independent
+independently independently
+indeterminate indeterminate
+inflexible inflexible
+information information
+inherit inherited
+init init
+injection injection
+input input
+instead instead
+instruction instruction
+int int
+integer integer
+integration integration
+interaction interaction interactions
+intercept intercepting
+interceptor interceptor
+interest interest
+interested interested
+interface interface interfaces
+internal internal
+interpreter interpreter
+interval interval
+inversion inversion
+invocation invocation
+invoke invoking
+iobservable iobservable
+iobserver iobserver
+iostream iostream
+isbn isbn
+issue issues
+italiano italiano
+item item
+iterator iterator
+january january
+java java
+javascript javascript
+jim jim
+john john
+johnson johnson
+join join
+jquery jquery
+jump jump
+keep keeping
+kent kent
+kernel kernel
+keyboard keyboard
+knock knocking
+know know knowing known
+knowledge knowledge
+kotlin kotlin
+kw kw
+kwarg kwargs
+lack lack
+language language languages
+lapse lapsed
+lazy lazy
+ldoornotify ldoornotify
+leak leaks
+learn learn
+length length
+let let
+level level
+library library
+license license
+like like
+limit limited
+linda linda
+line line
+link link links
+list list listed
+listen listening
+listener listener
+llistenerhusband llistenerhusband
+llistenerwife llistenerwife
+load loading
+local local
+locator locator
+lock lock locking
+log log logged
+logic logic
+loosely loosely
+loss loss
+low low
+magazine magazine
+magyar magyar
+main main
+maintain maintain maintains
+maintenance maintenance
+make makes making
+map map
+martin martin
+measure measures
+mediator mediator
+memento memento
+memory memory
+menu menu
+message message messages
+method method methods
+mobile mobile
+mock mock
+mode mode
+model model
+monitor monitor
+moshe moshe
+multi multi
+multiple multiple
+mutablelistof mutablelistof
+mvc mvc
+mvp mvp
+mvvm mvvm
+n n
+naked naked
+name named
+navigation navigation
+nederland nederlands
+new new
+nextline nextline
+nomenclature nomenclature
+non non
+notification notification notifications
+notifie notifies
+notify notified notify notifying
+notifyobserver notifyobservers
+nov nov
+november november
+null null
+number number
+obj obj
+object object objects
+observable observable
+observe observed
+observer observer observers
+observerdemo observerdemo
+observerexamplebuttonclick observerexamplebuttonclick
+occurrence occurrence
+oncomplete oncompleted
+onerror onerror
+online online
+onnext onnext
+open open
+operate operating
+operation operation
+operator operator
+optimize optimize
+option option
+order order
+organization organization
+orient oriented
+osmani osmani
+output output
+overload overload overloaded
+override override
+overview overview
+page page pages
+part parts
+particular particular
+particularly particularly
+party parties
+pattern pattern patterns
+payload payload
+pc pc
+pdf pdf
+people people
+perform performed
+performance performance
+peripheral peripherals
+permanent permanent
+personal personal
+petzold petzold
+physical physical
+physically physically
+play plays
+point point
+policy policy
+polling polling
+polski polski
+pool pool
+portal portal
+portland portland
+possible possible
+pp pp
+prevent prevented
+print print prints
+printable printable
+println println
+privacy privacy
+private private
+proactor proactor
+probably probably
+problem problem problems
+procedure procedure
+process process
+profit profit
+program program
+programming programming
+progress progress
+project projects
+property properties
+prototype prototype
+provide provides
+proxy proxy
+pub pub
+public public
+publish publish
+push push
+python python
+qr qr
+queue queue queueing
+ralph ralph
+random random
+reactor reactor
+read read
+readonly readonly
+receive received
+recent recent
+record record recording
+recovery recovery
+recur recurring
+refer refer refers
+reference reference references
+refobserver refobserver
+register register registered
+registration registration
+regular regular
+reintroduce reintroduce
+relate related
+remove remove removed removing
+repaint repaint
+repository repository
+represent represent
+request request requests
+require requires
+response response
+responsibility responsibility
+retrieve retrieved
+return return
+reusable reusable
+reuse reuse reused
+richard richard
+rise rising
+robert robert
+rule rule
+run run
+runtime runtime
+s s
+safari safari
+sample sample
+scalability scalability
+scanner scanner
+scansystemin scansystemin
+scenario scenarios
+schedule scheduled
+scheduler scheduler
+schmidt schmidt
+search search
+security security
+self self
+semaphore semaphore
+sender sender
+sendmessage sendmessage
+separate separated
+sequence sequence
+servant servant
+server server
+service service
+set set
+setstate setstate
+setup setup
+sharealike sharealike
+sharp sharp
+short short
+shorten shortened
+show shows
+sidebar sidebar
+signal signal
+similar similar
+singleton singleton
+sink sinks
+site site
+small small
+software software
+sole sole
+solve solved
+source source
+special special
+specification specification
+speed speed
+stage stage
+startup startup
+state state
+statement statement
+static static
+statistic statistics
+status status
+std std
+storage storage
+strategy strategy
+stream stream
+string string
+strong strong
+structural structural
+structure structure structures
+sub sub
+subj subj
+subject subject
+subscribe subscribe subscribing
+subsection subsection
+suit suits
+supply supplied
+suspension suspension
+svenska svenska
+synchronize synchronize synchronizing
+synonyms synonyms
+system system systems
+sysutil sysutils
+t t
+table table
+take takes
+talk talk
+task task
+template template
+term terms
+test test
+text text
+thousand thousands
+thread thread
+tightly tightly
+time time times
+timer timer
+tinterfacedobject tinterfacedobject
+tlist tlist
+tlistener tlistener
+tmyform tmyform
+tobject tobject
+tobservermanager tobservermanager
+toggle toggle
+tool tools
+topic topic
+trademark trademark
+transfer transfer
+try try
+tunnel tunnel
+twin twin
+type type
+typealia typealias
+typical typical
+typically typically
+uml uml
+uncoupled uncoupled
+underlie underlying
+unit unit
+unregister unregister
+unregisterobsrver unregisterobsrver
+unresponsive unresponsive
+unsubscriber unsubscriber
+update update updated updates updating
+upload upload
+url url
+usage usage
+use use uses
+useful useful
+user user
+usually usually
+utc utc
+v v
+val val
+value value
+var var
+variable variable
+version version
+view view
+virtual virtual
+visitor visitor
+vlisside vlissides
+void void
+ward ward
+weak weak
+well better
+wesley wesley
+wife wife
+wikibook wikibooks
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+window window windows
+write write written
+writeln writeln
+x x
+yield yielding

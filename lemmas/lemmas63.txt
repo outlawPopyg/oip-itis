@@ -1,0 +1,326 @@
+account account
+acknowledge acknowledge
+acquire acquired
+acquisition acquisition
+action actions
+activemq activemq
+add add
+additional additional
+advance advanced
+ago ago
+agree agree
+amqp amqp
+announce announce
+apache apache
+appearance appearance
+application application
+apply apply
+appropriate appropriate
+apr apr
+april april
+architecture architecture
+archive archived
+article article articles
+associate associated
+attribution attribution
+aug aug
+available available
+barthel barthel
+bin bin
+bitnami bitnami
+blockingconnection blockingconnection
+body body
+broadcom broadcom
+broker broker brokers
+build built
+call called
+callback callback
+camel camel
+care care
+category categories
+ch ch
+change changes
+channel channel
+citation citations
+cite cite
+client client clients
+close close closes
+closely closely
+cluster clustering clusters
+code code
+cohesiveft cohesiveft
+collection collection
+commercial commercial
+commercially commercially
+commons commons
+community community
+complete completes
+conduct conduct
+connection connection
+connectionparameter connectionparameters
+consist consists
+contact contact
+content content contents
+contribute contribute
+contribution contributions
+control control
+cookie cookie
+cooper cooper
+copy copying
+create create
+creative creative
+cross cross
+current current
+day days
+dec dec
+december december
+def def
+description description
+deutsch deutsch
+develop developed
+developer developers
+different different
+disclaimer disclaimers
+division division
+donate donate
+download download
+e e
+edit edit edited
+editor editors
+efficient efficient
+enable enables
+encyclopedia encyclopedia
+end end ended ends
+english english
+enterprise enterprise
+env env
+erlang erlang
+establishe establishes
+event events
+example example examples
+excessively excessively
+exchange exchange
+exist exists
+exit exit
+export export
+extend extended
+extensibility extensibility
+external external
+failover failover
+fast fast
+feature feature features
+feb feb
+february february
+federation federation
+file file
+finally finally
+follow following
+foundation foundation
+fragment fragment
+framework framework
+free free
+gateway gateways
+general general
+get getting got
+github github
+give gives
+google google
+hello hello
+help help
+hide hidden hide
+history history
+host host
+http http
+implement implemented
+import import
+improve improve
+in ins
+include including
+independent independent
+information information
+interface interface
+italiano italiano
+item item
+jan jan
+java java
+joern joern
+joint joint
+jul jul
+jump jump
+jun jun
+june june
+kafka kafka
+kubernete kubernetes
+lack lacking
+language language languages
+late latest
+launch launch
+learn learn
+level level levels
+library libraries
+license license
+link link links
+localhost localhost
+log log logged
+lshift lshift
+main main
+major major
+make makes
+management management
+mar mar
+menu menu
+message message messages messaging
+method method
+middleware middleware
+mobile mobile
+monitor monitoring
+move moving
+mozilla mozilla
+mq mq
+mqtt mqtt
+navigation navigation
+neutral neutral
+news news
+non non
+note note
+nov nov
+november november
+oct oct
+october october
+offering offerings
+official official
+open open
+operate operating
+option option
+organization organization
+orient oriented
+original original
+originally originally
+ova ova
+package package packaged
+page page pages
+pdf pdf
+permanent permanent
+personal personal
+peter peter
+pika pika
+pivotal pivotal
+platform platform
+plug plug
+policy policy
+polski polski
+portal portal
+potentially potentially
+predefine predefined
+press press
+prevent preventing
+print print prints
+printable printable
+privacy privacy
+profit profit
+program program programmed programs
+programming programming
+project project projects
+property properties
+protocol protocol protocols
+proudly proudly
+public public
+python python
+qpid qpid
+qr qr
+queue queue queuing
+r r
+rabbit rabbit
+rabbitmq rabbitmq
+random random
+read read reading
+receipt receipt
+receive received receives receiving
+recent recent
+recipient recipient
+reference references
+register registered
+relate related
+release release released
+reliable reliable
+rely rely
+remove remove
+replace replacing
+replicate replicating
+repository repository
+retrieve retrieved
+rubyinside rubyinside
+rubyist rubyists
+sample sample
+schedule schedule
+screen screen
+search search
+section section
+send sending sends sent
+sep sep
+sept sept
+server server
+service service
+share sharing
+sharealike sharealike
+short short
+shorten shortened
+shovel shovel
+sidebar sidebar
+similarly similarly
+site site
+software software
+source source sources
+special special
+springsource springsource
+stable stable
+start started
+statement statement
+statistic statistics
+stomp stomp
+story stories
+stream streaming
+subject subject
+subsection subsection
+support support supported
+sure sure
+system system
+t t
+table table
+take takes
+talk talk talks
+tanzu tanzu
+tech tech
+technology technologies
+telecom telecom
+telemetry telemetry
+term terms
+text text
+toggle toggle
+tool tools
+topic topic
+trademark trademark
+transport transport
+type type
+upload upload
+url url
+use use
+utc utc
+v v
+vendor vendors
+venture venture
+verifiable verifiable
+version version
+view view
+vmware vmware
+wait waiting
+website website
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+work works
+world world
+write written
+www www
+x x
+zeromq zeromq

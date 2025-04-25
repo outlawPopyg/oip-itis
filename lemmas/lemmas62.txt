@@ -1,0 +1,624 @@
+abstraction abstraction
+account account
+accumulo accumulo
+action actions
+activemq activemq
+actual actual
+add add added adding
+addition addition
+additional additional
+additionally additionally
+admin admin
+advance advanced
+advice advice
+aggregation aggregation
+ago ago
+agree agree
+aim aims
+airavata airavata
+airflow airflow
+allow allowed allows
+allura allura
+ambari ambari
+amqp amqp
+analytic analytics
+ant ant
+apache apache
+apex apex
+api api
+apis apis
+appearance appearance
+application application applications
+apply apply
+approach approach
+appropriate appropriate
+apr apr
+arbitrarily arbitrarily
+architecture architecture
+archive archived
+arie aries
+arrow arrow
+article article articles
+ask ask
+associate associated
+attic attic
+attribution attribution
+author author
+authority authority
+available available
+avro avro
+axis axis
+axkit axkit
+backward backward
+bahasa bahasa
+base based
+batik batik
+bcel bcel
+beam beam
+beehive beehive
+binary binary
+bind bound
+block blocks
+bloodhound bloodhound
+bnf bnf
+bound bounds
+british british
+broker broker brokers
+brooklyn brooklyn
+bsf bsf
+build build built
+bundle bundled
+bursty bursty
+bus bus
+business business
+calcite calcite
+call called
+camel camel
+carbondata carbondata
+cassandra cassandra
+category categories category
+cayenne cayenne
+challenge challenged
+change changes
+chapter chapter
+choose chose
+citation citations
+cite cite
+class classes
+cleanup cleanup
+click click
+client client clients
+closely closely
+cloudstack cloudstack
+cluster cluster
+co co
+cocoon cocoon
+code code
+collect collecting
+college college
+come come
+commercial commercial
+commit commit
+commonly commonly
+commons commons
+community community
+compact compacted
+compatibility compatibility
+compatible compatible
+conduct conduct
+configure configured
+connect connect connects
+connector connector connectors
+consume consume
+consumer consumer consumers
+contact contact
+contain containing contains
+content content contents
+contiguous contiguous
+continuum continuum
+contribute contribute
+contribution contributions
+control control
+conventional conventional
+convert converts
+cookie cookie
+coordination coordination
+cordova cordova
+core core
+couchdb couchdb
+create create
+creative creative
+cross cross
+ctake ctakes
+current current
+currently currently
+custom custom
+cxf cxf
+daemon daemon
+database databases
+datadog datadog
+dataflow dataflow
+datum data
+day days
+db db
+december december
+decouple decoupled
+default default
+define defines
+definitive definitive
+delete delete
+deliver deliver
+deltacloud deltacloud
+derby derby
+description description
+deutsch deutsch
+develop developed
+developer developers
+development development
+different different
+directory directory
+disclaimer disclaimers
+discuss discuss
+disk disk
+distribute distributed
+distribution distribution
+documentation documentation
+domain domain
+donate donate
+download download
+drill drill
+drive driven
+driver driver
+druid druid
+dsl dsl
+e e
+early earlier early
+edit edit edited
+editor editors
+efficiency efficiency
+efficient efficient
+elastic elastic
+empire empire
+encyclopedia encyclopedia
+encyclopedic encyclopedic
+end end
+english english
+enterprise enterprise
+entirely entirely
+etc etc
+etch etch
+evan evan
+event event events
+exactly exactly
+example example
+exceed exceeded
+excessively excessively
+execute executes
+exist existing
+expire expire
+export export
+external external
+fashion fashion
+fault fault
+feature features
+feed feed feeds
+felix felix
+file file
+filter filter
+flex flex
+flink flink
+flume flume
+follow following
+fop fop
+forbe forbes
+forward forward
+foundation foundation
+framework framework
+france france
+franz franz
+free free
+freemarker freemarker
+fully fully
+functionality functionality
+gas gas
+general general
+geronimo geronimo
+get got
+giraph giraph
+github github
+graduation graduation
+groovy groovy
+group grouping groups
+guacamole guacamole
+guarantee guarantees
+guide guide
+gump gump
+gwen gwen
+hadoop hadoop
+hama hama
+handle handling
+harmony harmony
+hbase hbase
+hear heard
+helix helix
+help help helped
+hide hidden hide
+high high
+history history
+hive hive
+home home
+hortonwork hortonworks
+http http
+ibatis ibatis
+iceberg iceberg
+ignite ignite
+impala impala
+implement implement implemented
+import import
+improve improve
+include include including
+incubation incubation
+incubator incubator
+indefinitely indefinitely
+independent independent
+index indexed
+information information
+initial initial
+input input
+insight insight
+instead instead
+instruction instructions
+integration integration
+interface interface
+internally internally
+isbn isbn
+issue issues
+italiano italiano
+item item
+ivy ivy
+jackrabbit jackrabbit
+jakarta jakarta
+james james
+january january
+java java
+jay jay
+jconsole jconsole
+jelly jelly
+jena jena
+jmeter jmeter
+jms jms
+job job
+join joins
+jump jump
+jun jun
+june june
+kafka kafka
+key key
+krep kreps
+kudu kudu
+kylin kylin
+lack lacking
+language language languages
+large larger
+late latest
+latency latency
+later later
+layer layers
+lead leads
+learn learn
+leave left
+level level
+li li
+library libraries library
+license license licenses
+light lit
+like like liked
+linear linear
+link link links
+linkedin linkedin
+list list
+local local
+log log logged logging
+logic logic
+lot lot
+low low
+lucene lucene
+machine machine
+mahout mahout
+main main
+maint maint
+maintain maintain maintained maintains
+maintenance maintenance
+major major
+manage manage managing
+map map
+march march
+marmotta marmotta
+massive massive
+match matching
+material material
+maven maven
+melayu melayu
+memory memory
+menu menu
+message message messages messaging
+metric metrics
+middleware middleware
+mina mina
+mixed mixed
+mobile mobile
+monitor monitoring
+mouzakitis mouzakitis
+multiple multiple
+mxnet mxnet
+myface myfaces
+mynewt mynewt
+narkhede narkhede
+nat nats
+national national
+naturally naturally
+navigation navigation
+need needing
+neha neha
+netbean netbeans
+network network
+neutral neutral
+new newer
+niche niche
+nifi nifi
+node nodes
+non non
+notion notion
+november november
+null null
+number number
+numerous numerous
+nutch nutch
+nuttx nuttx
+object objects
+occur occurred
+october october
+ode ode
+ofbiz ofbiz
+offer offered offers
+official official
+offset offsets
+old old older
+oozie oozie
+open open
+openejb openejb
+openjpa openjpa
+opennlp opennlp
+operate operating
+operation operations
+operator operator operators
+optimize optimized
+orc orc
+order ordered
+organization organization
+orient oriented
+original original
+originally originally
+output output
+overhead overhead
+overview overview
+packet packets
+page page pages
+palino palino
+parquet parquet
+partition partition partitioned partitions
+party party
+passenger passenger
+pattern patterns
+pay paying
+pdf pdf
+pdfbox pdfbox
+people people
+perform performed performing
+performance performance
+permanent permanent
+permit permits
+personal personal
+phoenix phoenix
+pig pig
+pinot pinot
+pivot pivot
+platform platform platforms
+poi poi
+policy policy
+polski polski
+popular popular
+portal portal
+position position
+possible possible
+potentially potentially
+predictive predictive
+prevent preventing
+print print
+printable printable
+privacy privacy
+process processes processing
+processor processor
+produce produces
+producer producer producers
+product products
+production production
+profit profit
+program programmed
+programming programming
+project project projects
+protocol protocol
+provide provide provides providing
+publish publish
+pulsar pulsar
+qpid qpid
+qr qr
+queue queue queuing
+rabbitmq rabbitmq
+random random
+rao rao
+read read reading
+ready ready
+real real
+recent recent
+record records
+recreate recreating
+redis redis
+reduce reduce
+reference references
+register registered
+regular regular
+relate related
+release release
+reliable reliable
+rely relies rely
+remove remove removed
+replace replace replacing
+replicate replicated
+repository repository
+require requires
+result result results
+retention retention
+retrieve retrieved
+reusable reusable
+rewrite rewrite
+river river
+rocketmq rocketmq
+rocksdb rocksdb
+roller roller
+roundtrip roundtrip
+run runs
+samza samza
+scala scala
+scalable scalable
+search search
+section section sections
+sense sense
+sequential sequential
+server server servers
+service service services
+set set
+shale shale
+shapira shapira
+sharealike sharealike
+shiro shiro
+short short
+shorten shortened
+sidebar sidebar
+singa singa
+site site
+slide slide
+sling sling
+smart smart
+soa soa
+software software
+solr solr
+source source sourced sources sourcing
+space space
+spamassassin spamassassin
+spark spark
+special special
+specific specific
+specify specified
+sqoop sqoop
+srpski srpski
+stable stable
+stanbol stanbol
+start starts
+state state
+stateful stateful
+statement statement
+statistic statistics
+status status
+storage storage
+store store stored stores
+storm storm
+stream stream streaming streams
+strictly strictly
+strut struts
+subject subject
+subscribe subscribe
+subsection subsection
+subsequently subsequently
+subversion subversion
+superset superset
+support supports
+system system systems
+systemds systemds
+t t
+table table tables
+take taken
+talk talk
+tapestry tapestry
+taverna taverna
+tcp tcp
+template template
+term terms
+text text
+think thought
+thrift thrift
+throughput throughput
+tika tika
+time time
+timestamp timestamp
+tinkerpop tinkerpop
+todd todd
+toggle toggle
+tolerance tolerance
+tolerant tolerant
+tombstone tombstone
+tomcat tomcat
+tool tools
+topic topic topics
+track track tracking
+trademark trademark
+traffic traffic
+trafodion trafodion
+transactional transactional
+treat treats
+turn turn
+tuscany tuscany
+type type types
+uber uber
+uima uima
+underlie underlying
+unify unified
+unsourced unsourced
+update updates
+upgrade upgrade
+upload upload
+url url
+use use uses
+user users
+utc utc
+v v
+value value
+velocity velocity
+verifiable verifiable
+version version
+view view
+volume volume
+wave wave
+wayback wayback
+web web
+webarchive webarchive
+website website
+wicket wicket
+wikibook wikibooks
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+wikiversity wikiversity
+wikivoyage wikivoyage
+windowe windowing
+work work works
+write write writes writing written
+writer writer
+xalan xalan
+xerce xerces
+xml xml
+xmlbean xmlbeans
+year years
+yetus yetus
+zeromq zeromq
+zookeeper zookeeper

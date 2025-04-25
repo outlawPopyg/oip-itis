@@ -1,0 +1,483 @@
+access access
+accord according
+account account
+acquire acquires
+acquisition acquisition
+act acts
+action actions
+add add added adding
+addition addition
+additional additional
+adoption adoption
+affero affero
+ago ago
+agree agree
+aiven aiven
+alibaba alibaba
+alongside alongside
+amazon amazon
+analytic analytics
+anderson anderson
+andrew andrew
+announce announced
+anthony anthony
+aol aol
+apache apache
+api api
+apis apis
+app app
+appearance appearance
+apply apply
+appropriately appropriately
+april april
+archive archived
+article article articles
+associate associates
+attribution attribution
+august august
+authority authority
+automatically automatically
+available available
+aw aws
+b b
+banon banon
+base based
+beat beats
+bell bell
+benchmark benchmark
+big big
+blame blamed
+blog blog blogs
+book books
+break break
+bring brings brought
+build builds built
+buy buys
+c c
+call called
+capital capital
+category categories
+challenge challenged
+change change changed changes
+charge charge
+citation citations
+cite cite
+claim claiming
+client client clients
+cloud cloud
+cluster cluster
+code code
+collaborate collaborating
+collection collection
+come coming
+commercial commercial
+commit committed
+common common
+commons commons
+communication communications
+community community
+company companies company
+compass compass
+conduct conduct
+consist consists
+consumer consumers
+contact contact
+content content contents
+continue continue
+contribute contribute
+contribution contributions
+control control controlling
+cookie cookie
+coordinate coordinate
+coordinator coordinator
+core core
+correct correct
+correspond corresponding
+crash crash
+cratedb cratedb
+create create created creating
+creative creative
+critic critics
+cross cross
+current current
+custom custom
+customer customers
+database database databases
+datanami datanami
+datastore datastore
+date dates
+datum data
+db db
+deadlock deadlock
+decision decision
+delegate delegate
+deployment deployments
+description description
+design designed
+detail details
+detect detecting
+deutsch deutsch
+develop developed
+developer developers
+development development
+different different
+directly directly
+disclaimer disclaimers
+discuss discuss
+discussion discussion
+distribute distributed
+divide divided
+dmy dmy
+document document documents
+dollar dollars
+donate donate
+double doubling
+download download
+dual dual
+ecosystem ecosystem
+edit edit edited
+editor editors
+effort efforts
+elastic elastic
+elasticsearch elasticsearch
+elk elk
+encrypt encrypted
+encyclopedia encyclopedia
+engine engine engines
+english english
+enterprise enterprise
+estimate estimated
+event event events
+example example
+excessively excessively
+exchange exchange
+expert experts
+export export
+external external
+extraction extraction
+facetting facetting
+family family
+feature feature features
+february february
+fight fight
+file file filed
+find find found
+flexible flexible
+follow following
+fork fork forking
+form form formed forming
+found founded
+foundation foundation
+free free
+fund fund funding
+funder funders
+future future
+gateway gateway
+gcp gcp
+general general
+germany germany
+github github
+gnu gnu
+google google
+ground ground
+growth growth
+guide guide
+ha ha
+handle handles
+harm harm
+help help
+hide hidden hide
+history history
+host host hosts
+http http
+ii ii
+immediate immediate
+improve improve
+include include including
+index index indexes indices
+information information
+initial initial
+insight insight
+instead instead
+integrate integrated
+interface interface
+internet internet
+introduce introducing
+ipos ipos
+issue issues
+italiano italiano
+item item
+january january
+java java
+json json
+jstor jstor
+july july
+jump jump
+june june
+kibana kibana
+kind kind
+know know
+lack lacking lacks
+language language languages
+late late
+lead leading led
+leak leaks
+learn learn learning
+library libraries
+license license licensed licensing
+lightweight lightweight
+line line
+link link links
+linux linux
+list list listed
+lockdown lockdown
+log log logged
+logstash logstash
+long long
+look looking
+lucene lucene
+m m
+machine machine
+main main
+maintenance maintenance
+make makes making
+manage managing
+march march
+match match
+matter matters
+mean means
+menu menu
+message message messages
+miller miller
+mobile mobile
+momentum momentum
+monetize monetize
+monitor monitor
+month months
+multiple multiple
+multitenancy multitenancy
+multitenant multitenant
+national national
+native native
+navigation navigation
+nea nea
+near near
+necessary necessary
+nederland nederlands
+need need
+new new
+news news
+newspaper newspapers
+nichols nichols
+node node
+non non
+nosql nosql
+note noted
+notify notifying
+november november
+number number
+nunn nunn
+nv nv
+object objecting
+october october
+offer offer offered offers
+offering offering offerings
+official official
+ok ok
+oliver oliver
+open open
+opensearch opensearch
+operate operating
+operation operations
+option option
+order order
+organization organization
+original original
+output output
+page page pages
+part parts
+partner partners
+partnership partnerships
+pdf pdf
+peculiar peculiar
+percolate percolate
+percolating percolating
+percolator percolator
+performance performance
+permanent permanent
+permissive permissive
+persistence persistence
+personal personal
+php php
+plan plans
+platform platform
+policy policy
+polski polski
+popular popular
+popularity popularity
+portal portal
+potential potential
+power powered
+precursor precursor
+predict predicted
+previously previously
+primary primary
+print print
+printable printable
+privacy privacy
+product product products
+profit profit
+programming programming
+project projects
+promise promised
+proprietary proprietary
+prospective prospective
+provide provide provides
+public public
+python python
+qr qr
+query queries query
+raise raising
+random random
+rank ranking
+read read
+reader readers
+real real
+realize realized
+realm realm
+rebalancing rebalancing
+rebrand rebrands
+rebrande rebranded
+recent recent
+recode recode
+recognize recognized
+recover recovered
+refer referred
+reference reference references
+reflect reflect
+register register registered
+relate related
+release release released releases
+reliable reliable
+relicense relicensing
+rely relies
+remove remove removed removing
+renames renames
+replica replica
+replicas replicas
+repository repository
+request requests
+respond responded
+retrieval retrieval
+retrieve retrieved
+return returning returns
+reverse reverse
+rewrite rewrite
+role role
+ron ron
+round round
+route routing
+ruby ruby
+rung rung
+saas saas
+scalable scalable
+schema schema
+schleifer schleifer
+scholar scholar
+score scores
+search search
+secondary secondary
+secure secure
+security security
+sep sep
+september september
+serdar serdar
+serena serena
+series series
+server server
+service service services
+shard shard shards
+sharealike sharealike
+shay shay
+shipper shippers
+short short
+shorten shortened
+sidebar sidebar
+siem siem
+site site
+software software
+solution solution
+source source sources
+special special
+spurt spurt
+stable stable
+stack stack
+start starting
+startup startup
+statement statement
+statistic statistics
+step stepping
+steven steven
+stock stock
+store stored
+subsection subsection
+suitable suitable
+suomi suomi
+support support supports
+swiftype swiftype
+system system
+table table
+talk talk
+techcrunch techcrunch
+technical technical
+term term terms
+tertiary tertiary
+text text
+thank thank
+theodore theodore
+theregister theregister
+think thinking
+tim tim
+time time
+tls tls
+toggle toggle
+tool tools
+topic topic
+total total
+trademark trademark
+transaction transaction transactions
+triple triple
+truly truly
+try tries
+type type
+understand understand
+understandable understandable
+unreliable unreliable
+upload upload
+url url
+use use uses
+useful useful
+user user users
+utc utc
+valuation valuation
+vaughan vaughan
+venture ventures
+version version
+view view
+visualization visualization
+want wants
+web web
+website website
+well better
+wide wide
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+write written
+www www
+xavier xavier
+year years
+yegulalp yegulalp
+york york
+zdnet zdnet
+ze ze

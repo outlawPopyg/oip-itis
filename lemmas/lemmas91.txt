@@ -1,0 +1,536 @@
+I id
+ability abilities ability
+acceptance acceptance
+access access
+account account accounts
+action actions
+activity activity
+actual actual
+add add adding
+additional additional
+adequately adequately
+advance advanced
+adware adware
+affect affect
+agree agree
+algorithmic algorithmic
+allow allow allowed allows
+analysis analysis
+anomaly anomaly
+antivirus antivirus
+api api
+appearance appearance
+application application
+apply applied apply
+approach approach approached approaches
+arbitrary arbitrary
+architecture architecture
+array array
+article article articles
+artifact artifact
+assessment assessment
+assurance assurance
+assure assuring
+attack attack
+attacker attacker
+attribution attribution
+audit audit
+august august
+authenticate authenticate
+authentication authentication
+authorization authorization
+authorize authorized
+automate automated
+automatically automatically
+automation automation
+automotive automotive
+availability availability
+available available
+b b
+backdoor backdoors
+base base based
+basis basis
+benchmark benchmark
+biological biological
+black black
+bomb bombs
+book books
+botnet botnets
+box box
+breach breach
+broad broad
+broader broader
+browser browser
+bug bugs
+build build building builds
+business business
+case case
+category categories
+centric centric
+cert cert
+challenge challenged challenges
+change changes
+characterize characterized
+cheat cheat
+check check
+chemical chemical
+citation citations
+cite cite
+claim claiming claims
+clobber clobbering
+code code codes coding
+common common
+commons commons
+communication communication communications
+community community
+compare compared
+compatibility compatibility
+complete complete completed
+compliance compliance
+component component components
+composition composition
+computer computer
+concolic concolic
+concurrent concurrent
+condition conditions
+conduct conduct
+confidential confidential
+confidentiality confidentiality
+confirm confirm confirming
+conformance conformance
+consistent consistent
+contact contact
+container container
+content content contents
+context context
+continuous continuous
+contribute contribute
+contribution contributions
+control control
+cookie cookie
+copy copy
+correct correct
+counter counter
+coverage coverage
+create create
+creative creative
+credential credential credentials
+crimeware crimeware
+cross cross
+cryptojacke cryptojacking
+current current
+cyber cyber
+cybercrime cybercrime
+cybergeddon cybergeddon
+cybersecurity cybersecurity
+cybersex cybersex
+cyberterrorism cyberterrorism
+cyberwarfare cyberwarfare
+dast dast
+datum data
+decide deciding
+default default
+defense defenses
+delivery delivery
+denial denial
+deny deny
+depend depend
+deprecate deprecated
+depth depth
+description description
+design design
+destructive destructive
+detect detect
+detection detection
+determine determine determining
+developer developers
+development development
+devsecop devsecops
+diagram diagrams
+dialer dialers
+different different
+differential differential
+digital digital
+direct direct
+disclaimer disclaimers
+disclosure disclosure
+discover discover
+discovery discovery
+discuss discussed
+dlp dlp
+document documents
+dom dom
+donate donate
+download download
+drive drive driven
+dynamic dynamic
+e e
+early earlier
+eavesdropping eavesdropping
+edit edit edited
+editor editors
+effort efforts
+electronic electronic
+element elements
+email email
+enable enable
+encode encoding
+encryption encryption
+encyclopedia encyclopedia
+engagement engagement
+engine engine
+engineering engineering
+english english
+ensure ensure ensuring
+environment environment
+error error
+escalation escalation
+etc etc
+event event events
+examine examining
+example example
+execution execution
+exist exist
+expect expected
+exploit exploits
+exploitation exploitation
+exploratory exploratory
+explosive explosives
+export export
+exposure exposure
+factor factor
+false false
+file file
+find find finding found
+finding findings
+firewall firewall
+firmware firmware
+flaw flaws
+focus focused
+follow following
+fork fork
+form form
+foundation foundation
+fraud fraud
+fraudulent fraudulent
+free free
+function function
+functionality functionality
+fuzz fuzz
+gain gain
+gap gap
+general general
+github github
+glossary glossary
+graphical graphical
+grey grey
+guarantee guarantee
+guideline guideline
+hacktivism hacktivism
+hardware hardware
+have having
+header header
+help help helps
+helper helper
+hid hids
+hide hidden hide
+highlight highlight
+history history
+horse horses
+host host
+iast iast
+id ids
+identify identified identify
+identity identity
+impact impact
+implement implemented
+improve improve
+include include
+indicate indicate
+indication indication
+industry industry
+information information
+infostealer infostealer
+infrastructure infrastructure
+injection injection
+insecure insecure
+installation installation
+integration integration
+integrity integrity
+intend intended
+interactive interactive
+interface interface
+internal internal
+internet internet
+interpretation interpretation
+introduction introduction
+intrusion intrusion
+involve involve involves
+ips ips
+isolation isolation
+issue issue issues
+item item
+jstor jstor
+july july
+jump jump
+keep kept
+keystroke keystroke
+know known
+knowledge knowledge
+label labelling
+language languages
+later later
+lead lead
+leak leaks
+learn learn
+level level levels
+license license
+limitation limitations
+link link links
+local local
+log log logged logs
+logger loggers
+logic logic
+logical logical
+look look looking looks
+loss loss
+m m
+main main
+maintain maintain
+malicious malicious
+malizia malizia
+malware malware
+management management
+manual manual
+martellini martellini
+mask masking
+match match
+material material
+mean means
+meaning meanings
+measure measure
+mechanism mechanisms
+menu menu
+message message messages
+methodology methodology
+misuse misuse
+mobile mobile
+model model
+modify modified
+multi multi
+mutation mutation
+narrow narrow
+national national
+navigation navigation
+need need needing needs
+negative negative
+network network networking
+news news
+newspaper newspapers
+non non
+november november
+nuclear nuclear
+number number
+obfuscation obfuscation
+object object objects
+open open
+operate operating
+operation operation
+organization organization
+origin origins
+orthogonal orthogonal
+oss oss
+output output
+owasp owasp
+packaging packaging
+page page pages
+pair pair pairs
+party parties party
+pass passing
+payload payload
+pdf pdf
+penetration penetration
+perform perform
+performance performance
+permanent permanent
+persistent persistent
+person person persons
+personal personal
+phishe phishing
+place places
+policy policy
+polski polski
+polymorphic polymorphic
+portal portal
+positive positives
+potential potential
+prevention prevention
+previous previous
+print print
+printable printable
+privacy privacy
+privilege privilege
+problem problem
+process process
+product product
+profit profit
+program program
+project projects
+protect protect protecting protects
+protection protection
+provide provided providing
+purpose purpose
+qr qr
+radiological radiological
+random random
+range range
+ransomware ransomware
+rasp rasp
+read read
+ready ready
+receive receive received
+receiver receiver
+recent recent
+recipient recipient
+recognise recognises
+refer refers
+reference reference references
+register registered
+regression regression
+relate related
+reliability reliability
+reliable reliable
+remote remote
+remove remove removed removing
+report report reported
+repudiation repudiation
+requester requester
+requirement requirements
+respective respective
+response responses
+result result
+retrieve retrieved
+review review reviewing reviews
+right rights
+risk risk
+rogue rogue
+rootkit rootkits
+runtime runtime
+sast sast
+satisfie satisfies
+sca sca
+scan scan scanning
+scareware scareware
+scenario scenario
+scheme schemes
+scholar scholar
+scope scope
+scrape scraping
+script scripting
+search search
+secure secure
+security security
+self self
+send sent
+sender sender
+series series
+service service services
+set set
+setting settings
+sharealike sharealike
+sheet sheet
+shell shells
+shellcode shellcode
+short short
+shorten shortened
+sidebar sidebar
+siem siem
+simulate simulates
+site site
+smoke smoke
+sniff sniffing
+soak soak
+social social
+software software
+solve solving
+source source sources
+spamme spamming
+special special
+specific specific
+spoof spoofing
+springer springer
+spyware spyware
+sql sql
+stage stage stages
+standard standard standards
+statement statement
+static static
+statistic statistics
+stress stress
+supplement supplemented
+supply supplied
+symbolic symbolic
+system system systems
+t t
+table table
+tactic tactics
+talk talk
+taxonomy taxonomy
+technique techniques
+technology technologies
+term term terms
+test test tested
+tester tester
+testing testing
+text text
+threat threat threats
+time time
+toggle toggle
+tool tool tools
+topic topic
+trace tracing
+trademark trademark
+traffic trafficking
+transfer transferred
+transmit transmitted
+trojan trojan trojans
+trust trusted
+type type types
+typical typical
+typically typically
+unauthorized unauthorized
+underlie underlying
+understand understand understanding
+unit unit
+unsourced unsourced
+upload upload
+url url
+usability usability
+use use uses
+user user
+usually usually
+utc utc
+utilize utilize utilizes
+v v
+vectorial vectorial
+vendor vendor
+verification verification
+version version versions
+view view
+virus viruses
+voice voice
+vulnerability vulnerabilities vulnerability
+waf waf
+warfare warfare
+way way ways
+web web
+white white
+wikidata wikidata
+wikimedia wikimedia
+wikipedia wikipedia
+window windows
+wiper wiper
+work work
+worm worms
+zip zip
+zombie zombie
