@@ -9,7 +9,7 @@ import java.util.*;
 
 
 public class VectorSearchEngine {
-    private static final String INPUT_DIR = "tfidf_results";
+    private static final String INPUT_DIR = "tfidf_tokens";
     private static final String TOKENS_TFIDF_PREFIX = "tfidf_tokens";
     private static final String LEMMAS_TFIDF_PREFIX = "tfidf_lemmas";
     private static final String LEMMAS_MAP_PREFIX = "lemmas";
@@ -169,6 +169,9 @@ public class VectorSearchEngine {
     }
 
     public static void main(String[] args) throws IOException {
+        PageRankProcessor pageRankProcessor = new PageRankProcessor();
+        pageRankProcessor.initRanks();
+
         Scanner scanner = new Scanner(System.in);
         String query;
         VectorSearchEngine searchEngine = new VectorSearchEngine();
@@ -176,7 +179,9 @@ public class VectorSearchEngine {
         System.out.print("Query> ");
         while (!(query = scanner.nextLine()).equals("q")) {
             System.out.println("Results for '" + query + "':");
-            searchEngine.searchByLemmas(query, 10)
+            searchEngine.searchByTokens(query, 10).stream()
+                    .sorted(Comparator.comparing(Result::score, Comparator.reverseOrder())
+                            .thenComparing(r -> pageRankProcessor.indexMap.get(Integer.parseInt(r.docId())).pageRank(), Comparator.reverseOrder()))
                     .forEach(r -> System.out.printf("%s (%.4f)%n", r.docId, r.score));
             System.out.print("Query> ");
         }
