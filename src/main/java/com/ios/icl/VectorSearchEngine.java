@@ -1,5 +1,13 @@
 package com.ios.icl;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -7,7 +15,8 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 
-
+@Controller
+@RequestMapping("/")
 public class VectorSearchEngine {
     private static final String INPUT_DIR = "tfidf_tokens";
     private static final String TOKENS_TFIDF_PREFIX = "tfidf_tokens";
@@ -21,10 +30,31 @@ public class VectorSearchEngine {
     private final Map<String, List<String>> lemmaMap = new HashMap<>();
     private final int totalDocs;
 
+    @Autowired
+    private PageRankProcessor pageRankProcessor;
+
     public VectorSearchEngine() throws IOException {
         loadLemmaMapping();
         this.totalDocs = loadTfIdfVectors(TOKENS_TFIDF_PREFIX, tokenVectors, tokenIdf);
         loadTfIdfVectors(LEMMAS_TFIDF_PREFIX, lemmaVectors, lemmaIdf);
+    }
+
+    @GetMapping
+    public String home() {
+        return "index";
+    }
+
+    @GetMapping("/search")
+    public String getPages(@RequestParam("query") String query, Model model) {
+        List<String> pages = searchByTokens(query, 10).stream()
+                .sorted(Comparator
+                        .comparing(Result::score, Comparator.reverseOrder())
+                        .thenComparing(r -> pageRankProcessor.indexMap.get(Integer.parseInt(r.docId())).pageRank(), Comparator.reverseOrder()))
+                .map(r -> pageRankProcessor.indexMap.get(Integer.parseInt(r.docId())).pageUrl())
+                .toList();
+        model.addAttribute("pages", pages);
+
+        return "index";
     }
 
 
@@ -168,22 +198,4 @@ public class VectorSearchEngine {
     public record Result(String docId, double score) {
     }
 
-    public static void main(String[] args) throws IOException {
-        PageRankProcessor pageRankProcessor = new PageRankProcessor();
-        pageRankProcessor.initRanks();
-
-        Scanner scanner = new Scanner(System.in);
-        String query;
-        VectorSearchEngine searchEngine = new VectorSearchEngine();
-        System.out.println("Введите запрос (q для выхода)");
-        System.out.print("Query> ");
-        while (!(query = scanner.nextLine()).equals("q")) {
-            System.out.println("Results for '" + query + "':");
-            searchEngine.searchByTokens(query, 10).stream()
-                    .sorted(Comparator.comparing(Result::score, Comparator.reverseOrder())
-                            .thenComparing(r -> pageRankProcessor.indexMap.get(Integer.parseInt(r.docId())).pageRank(), Comparator.reverseOrder()))
-                    .forEach(r -> System.out.printf("%s (%.4f)%n", r.docId, r.score));
-            System.out.print("Query> ");
-        }
-    }
 }

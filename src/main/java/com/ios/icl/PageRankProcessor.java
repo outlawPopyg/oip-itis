@@ -1,5 +1,8 @@
 package com.ios.icl;
 
+import jakarta.annotation.PostConstruct;
+import org.springframework.stereotype.Component;
+
 import java.io.IOException;
 import java.net.URI;
 import java.nio.file.Files;
@@ -8,8 +11,14 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;
 
+@Component
 public class PageRankProcessor {
     public Map<Integer, PageRank> indexMap = new HashMap<>();
+
+    @PostConstruct
+    public void init() {
+        initRanks();
+    }
 
     record OrderedFile(Path path, int index) {
     }
