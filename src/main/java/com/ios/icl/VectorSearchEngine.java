@@ -49,7 +49,7 @@ public class VectorSearchEngine {
         List<String> pages = searchByTokens(query, 10).stream()
                 .sorted(Comparator
                         .comparing(Result::score, Comparator.reverseOrder())
-                        .thenComparing(r -> pageRankProcessor.indexMap.get(Integer.parseInt(r.docId())).pageRank(), Comparator.reverseOrder()))
+                        .thenComparing(r -> pageRankProcessor.pageRanks.get(Integer.parseInt(r.docId())), Comparator.reverseOrder()))
                 .map(r -> pageRankProcessor.indexMap.get(Integer.parseInt(r.docId())).pageUrl())
                 .toList();
         model.addAttribute("pages", pages);

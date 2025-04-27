@@ -7,13 +7,13 @@ import java.io.IOException;
 import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Stream;
 
 @Component
 public class PageRankProcessor {
     public Map<Integer, PageRank> indexMap = new HashMap<>();
+    public Map<Integer, Double> pageRanks = new HashMap<>();
 
     @PostConstruct
     public void init() {
@@ -23,26 +23,10 @@ public class PageRankProcessor {
     record OrderedFile(Path path, int index) {
     }
 
-    public static final class PageRank {
-        private final String pageUrl;
-        private int pageRank;
-
-        PageRank(String pageUrl, int pageRank) {
-            this.pageUrl = pageUrl;
-            this.pageRank = pageRank;
-        }
-
-        public String pageUrl() {
-            return pageUrl;
-        }
-
-        public int pageRank() {
-            return pageRank;
-        }
-
-        public void setRank(int rank) {
-            this.pageRank = rank;
-        }
+    /**
+     * @param referencedDocs документы, ссылающиеся на pageUrl
+     */
+    public record PageRank(String pageUrl, List<Integer> referencedDocs) {
     }
 
     public void initRanks() {
@@ -51,7 +35,7 @@ public class PageRankProcessor {
         try (Stream<String> lines = Files.lines(Path.of("index.txt"))) {
             lines.forEach(line -> {
                 String[] split = line.split(" ");
-                indexMap.put(Integer.parseInt(split[0]), new PageRank(split[1], 0));
+                indexMap.put(Integer.parseInt(split[0]), new PageRank(split[1], new ArrayList<>()));
             });
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -70,16 +54,14 @@ public class PageRankProcessor {
                                     .parallel()
                                     .forEach(f -> {
                                         try {
-                                            long count = Files.lines(f)
+                                            Files.lines(f)
                                                     .filter(l -> l.contains(String.format("<a href=\"%s\"", resourceName)))
-                                                    .count();
+                                                    .findAny()
+                                                    .ifPresent(l -> {
+                                                        int index = Integer.parseInt(f.getFileName().toString().replaceAll("[a-z.]", ""));
+                                                        indexMap.get(file.index).referencedDocs().add(index);
+                                                    });
 
-                                            if (count > 0) {
-                                                System.out.println("In " + f.getFileName().toString() + " founded " +
-                                                        count + " refs to " + resourceName);
-                                            }
-
-                                            indexMap.get(file.index).setRank((int) (indexMap.get(file.index).pageRank() + count));
                                         } catch (IOException e) {
                                             throw new RuntimeException(e);
                                         }
@@ -90,6 +72,35 @@ public class PageRankProcessor {
                     });
         } catch (IOException e) {
             throw new RuntimeException(e);
+        } finally {
+            int i = 0;
         }
+
+        double d = 0.85;
+        double c = (1 - d) / 100;
+
+        for (int i = 0; i < 100; i++) {
+            for (Map.Entry<Integer, PageRank> indexMapEntry : indexMap.entrySet()) {
+
+                double pageRank = indexMapEntry.getValue().referencedDocs().stream()
+                        .filter(docId -> getPageOutgoingRefs(docId) != 0)
+                        .mapToDouble(docId -> pageRanks.getOrDefault(docId, 0.01) / getPageOutgoingRefs(docId))
+                        .sum();
+
+                pageRanks.put(indexMapEntry.getKey(), pageRank);
+            }
+        }
+
+
+        int i = 0;
+
+    }
+
+    private int getPageOutgoingRefs(int docId) {
+        return (int) indexMap.values().stream()
+                .map(PageRank::referencedDocs)
+                .flatMap(Collection::stream)
+                .filter(index -> docId == index)
+                .count();
     }
 }
